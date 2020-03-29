@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="IHC_Plants" id="IHC_Plants">
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Country" type="string"></SimpleField>
+	<SimpleField name="Plant_Type" type="string"></SimpleField>
+	<SimpleField name="Product" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+<Folder><name>IHC_Plants</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Dandenong</SimpleData>
+		<SimpleData name="State">Vicoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Medium Heavy Trucks</SimpleData>
+		<SimpleData name="Latitude">-37.98746</SimpleData>
+		<SimpleData name="Longitude">145.21486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>145.21486,-37.98746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Geelong</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors,Combines,Implements,Engines,Foundry</SimpleData>
+		<SimpleData name="Latitude">-38.148</SimpleData>
+		<SimpleData name="Longitude">144.35934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.35934,-38.148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - International Harvester,Australia</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - International Harvester Credit Corporation of Australia</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Seddon Atkinson Sales,Ltd</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">International Harvester Overseas Services Co.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Payline Regional Sales Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">South Melbourne</SimpleData>
+		<SimpleData name="State">Victoria</SimpleData>
+		<SimpleData name="Country">Australia</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - Truck Region</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-37.83238</SimpleData>
+		<SimpleData name="Longitude">144.96043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.96043,-37.83238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Vienna</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Austria</SimpleData>
+		<SimpleData name="Plant_Type">Regioal Sales Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">48.20921</SimpleData>
+		<SimpleData name="Longitude">16.37278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.37278,48.20921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Brussels</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Belgium</SimpleData>
+		<SimpleData name="Plant_Type">Solar Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">50.84554</SimpleData>
+		<SimpleData name="Longitude">4.35571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.35571,50.84554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Brussels</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Belgium</SimpleData>
+		<SimpleData name="Plant_Type">Truck Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">50.84554</SimpleData>
+		<SimpleData name="Longitude">4.35571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.35571,50.84554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Oeval</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Belgium</SimpleData>
+		<SimpleData name="Plant_Type">DAF Truck Factory</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">51.13845</SimpleData>
+		<SimpleData name="Longitude">4.90387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.90387,51.13845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Vilvoorde</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Belgium</SimpleData>
+		<SimpleData name="Plant_Type">International Harvester Co. of Belgium, SA/NV Sales Subsidiary</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">50.92705</SimpleData>
+		<SimpleData name="Longitude">4.42485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.42485,50.92705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Bermuda</SimpleData>
+		<SimpleData name="Plant_Type">International Harvester Acceptance Corporation Ltd., Finance Subsidiary</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.33901</SimpleData>
+		<SimpleData name="Longitude">-64.73842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.73842,32.33901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Bermuda</SimpleData>
+		<SimpleData name="Plant_Type">Harbour Assurance Co. of Bermuda Ltd. Subsidiary</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.33901</SimpleData>
+		<SimpleData name="Longitude">-64.73842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.73842,32.33901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Bermuda</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - Energy Services International Ltd. Subsidiary</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.33901</SimpleData>
+		<SimpleData name="Longitude">-64.73842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.73842,32.33901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Burlington</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.32599</SimpleData>
+		<SimpleData name="Longitude">-79.7983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.7983,43.32599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Candiac</SimpleData>
+		<SimpleData name="State">Quebec</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Wheel Loaders and Loggers</SimpleData>
+		<SimpleData name="Latitude">45.3924</SimpleData>
+		<SimpleData name="Longitude">-73.51658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.51658,45.3924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chatham</SimpleData>
+		<SimpleData name="State">Quebec</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks</SimpleData>
+		<SimpleData name="Latitude">45.6759</SimpleData>
+		<SimpleData name="Longitude">-74.40737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.40737,45.6759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Edmonton</SimpleData>
+		<SimpleData name="State">Alberta</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Solar Product Support Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.54445</SimpleData>
+		<SimpleData name="Longitude">-113.49091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-113.49091,53.54445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Edmonton</SimpleData>
+		<SimpleData name="State">Alberta</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.54445</SimpleData>
+		<SimpleData name="Longitude">-113.49091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-113.49091,53.54445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Bermuda</SimpleData>
+		<SimpleData name="Plant_Type">Internatioal Harvester Acceptance Sorporation Ltd., Finance Subsidiaery</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.33901</SimpleData>
+		<SimpleData name="Longitude">-64.73842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.73842,32.33901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Bermuda</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - Energy Services International, Ltd., Subsidiary</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.33901</SimpleData>
+		<SimpleData name="Longitude">-64.73842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.73842,32.33901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Burlington</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.32599</SimpleData>
+		<SimpleData name="Longitude">-79.7983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.7983,43.32599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Candiac</SimpleData>
+		<SimpleData name="State">Quebec</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Wheel Loaders and Loggers</SimpleData>
+		<SimpleData name="Latitude">45.3924</SimpleData>
+		<SimpleData name="Longitude">-73.51658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.51658,45.3924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chatham</SimpleData>
+		<SimpleData name="State">Quebec</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks</SimpleData>
+		<SimpleData name="Latitude">45.6759</SimpleData>
+		<SimpleData name="Longitude">-74.40737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.40737,45.6759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Edmonton</SimpleData>
+		<SimpleData name="State">Alberta</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Solar Product Support Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.54445</SimpleData>
+		<SimpleData name="Longitude">-113.49091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-113.49091,53.54445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Edmonton</SimpleData>
+		<SimpleData name="State">Alberta</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.54445</SimpleData>
+		<SimpleData name="Longitude">-113.49091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-113.49091,53.54445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - International Harvester Canada</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.25653</SimpleData>
+		<SimpleData name="Longitude">-79.87442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.87442,43.25653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - International Harvester Credit Corporation of Canada, Ltd.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.25653</SimpleData>
+		<SimpleData name="Longitude">-79.87442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.87442,43.25653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - Harcan Leasing, Ltd.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.25653</SimpleData>
+		<SimpleData name="Longitude">-79.87442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.87442,43.25653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hamilton</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Implements</SimpleData>
+		<SimpleData name="Latitude">43.25653</SimpleData>
+		<SimpleData name="Longitude">-79.87442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.87442,43.25653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">North Vancouver</SimpleData>
+		<SimpleData name="State">British Columbia</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters - Pacific Truck and Trailer</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">49.31995</SimpleData>
+		<SimpleData name="Longitude">-123.06924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.06924,49.31995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">North Vancouver</SimpleData>
+		<SimpleData name="State">British Columbia</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">On/Off Highway Trucks</SimpleData>
+		<SimpleData name="Latitude">49.31995</SimpleData>
+		<SimpleData name="Longitude">-123.06924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.06924,49.31995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Winnipeg</SimpleData>
+		<SimpleData name="State">Ontario</SimpleData>
+		<SimpleData name="Country">Canada</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">44.79746</SimpleData>
+		<SimpleData name="Longitude">-78.81342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.81342,44.79746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Copenhagen</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Denmark</SimpleData>
+		<SimpleData name="Plant_Type">Sales Subsidiary</SimpleData>
+		<SimpleData name="Product">Aktieselskabel International Harvester Company</SimpleData>
+		<SimpleData name="Latitude">55.67576</SimpleData>
+		<SimpleData name="Longitude">12.56902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.56902,55.67576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Copenhagen</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Denmark</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">55.67576</SimpleData>
+		<SimpleData name="Longitude">12.56902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.56902,55.67576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Bradford</SimpleData>
+		<SimpleData name="State">Yorkshire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors, Industrial Tractors</SimpleData>
+		<SimpleData name="Latitude">53.79385</SimpleData>
+		<SimpleData name="Longitude">-1.75244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.75244,53.79385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Doncaster</SimpleData>
+		<SimpleData name="State">Yorkshire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Transmissions,Industrial Tractors,Crawler Tractors</SimpleData>
+		<SimpleData name="Latitude">53.52304</SimpleData>
+		<SimpleData name="Longitude">-1.13376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.13376,53.52304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Doncaster</SimpleData>
+		<SimpleData name="State">Yorkshire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors,Balers</SimpleData>
+		<SimpleData name="Latitude">53.52304</SimpleData>
+		<SimpleData name="Longitude">-1.13376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.13376,53.52304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Doncaster</SimpleData>
+		<SimpleData name="State">Yorkshire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Engineering Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.52304</SimpleData>
+		<SimpleData name="Longitude">-1.13376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.13376,53.52304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Doncaster</SimpleData>
+		<SimpleData name="State">Yorkshire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.52304</SimpleData>
+		<SimpleData name="Longitude">-1.13376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.13376,53.52304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">London</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Great Britain</SimpleData>
+		<SimpleData name="Latitude">51.50015</SimpleData>
+		<SimpleData name="Longitude">-0.12624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12624,51.50015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">London</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Overseas Services Co.</SimpleData>
+		<SimpleData name="Latitude">51.50015</SimpleData>
+		<SimpleData name="Longitude">-0.12624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12624,51.50015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">London</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Regional Payline Sales Office,
+London,,England,Solar Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">51.50015</SimpleData>
+		<SimpleData name="Longitude">-0.12624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12624,51.50015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">London</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Harbor Underwriting Agency (U.K.) Ltd.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">51.50015</SimpleData>
+		<SimpleData name="Longitude">-0.12624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12624,51.50015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">London</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Credit Corporation of Great Britain, Ltd.</SimpleData>
+		<SimpleData name="Latitude">51.50015</SimpleData>
+		<SimpleData name="Longitude">-0.12624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12624,51.50015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Oldham</SimpleData>
+		<SimpleData name="State">Lancashire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Seddon Diesel Vehicles, Ltd.</SimpleData>
+		<SimpleData name="Latitude">53.54125</SimpleData>
+		<SimpleData name="Longitude">-2.11766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.11766,53.54125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Oldham</SimpleData>
+		<SimpleData name="State">Lancashire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks</SimpleData>
+		<SimpleData name="Latitude">53.54125</SimpleData>
+		<SimpleData name="Longitude">-2.11766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.11766,53.54125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Preston</SimpleData>
+		<SimpleData name="State">Lancashire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks and Cabs</SimpleData>
+		<SimpleData name="Latitude">53.75773</SimpleData>
+		<SimpleData name="Longitude">-2.70344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70344,53.75773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Preston</SimpleData>
+		<SimpleData name="State">Lancashire</SimpleData>
+		<SimpleData name="Country">England</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.75773</SimpleData>
+		<SimpleData name="Longitude">-2.70344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70344,53.75773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chauffailles</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Excavators</SimpleData>
+		<SimpleData name="Latitude">46.20782</SimpleData>
+		<SimpleData name="Longitude">4.33837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.33837,46.20782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Croix</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Combines,Implements</SimpleData>
+		<SimpleData name="Latitude">50.67491</SimpleData>
+		<SimpleData name="Longitude">3.14832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.14832,50.67491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Genas</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Yumbo Co.</SimpleData>
+		<SimpleData name="Latitude">45.73251</SimpleData>
+		<SimpleData name="Longitude">4.99706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.99706,45.73251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Genas</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Excavators</SimpleData>
+		<SimpleData name="Latitude">45.73251</SimpleData>
+		<SimpleData name="Longitude">4.99706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.99706,45.73251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Genas</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">45.73251</SimpleData>
+		<SimpleData name="Longitude">4.99706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.99706,45.73251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Genas</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Engineering Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">45.73251</SimpleData>
+		<SimpleData name="Longitude">4.99706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.99706,45.73251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Paris</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Europe S.A.</SimpleData>
+		<SimpleData name="Latitude">48.85689</SimpleData>
+		<SimpleData name="Longitude">2.35085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.35085,48.85689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Paris</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Agricultural Equipment Group - Europe,Africa,Middle East</SimpleData>
+		<SimpleData name="Latitude">48.85689</SimpleData>
+		<SimpleData name="Longitude">2.35085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.35085,48.85689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Paris</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester France</SimpleData>
+		<SimpleData name="Latitude">48.85689</SimpleData>
+		<SimpleData name="Longitude">2.35085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.35085,48.85689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Paris</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Solar Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">48.85689</SimpleData>
+		<SimpleData name="Longitude">2.35085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.35085,48.85689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Ris Orangis</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Solar Power Support Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">48.65397</SimpleData>
+		<SimpleData name="Longitude">2.41201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.41201,48.65397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">St. Dizier</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors,Transmissions</SimpleData>
+		<SimpleData name="Latitude">48.63723</SimpleData>
+		<SimpleData name="Longitude">4.94958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.94958,48.63723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">St. Dizier</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">France</SimpleData>
+		<SimpleData name="Plant_Type">Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">48.63723</SimpleData>
+		<SimpleData name="Longitude">4.94958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.94958,48.63723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Heidelberg</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Germany</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Front End Loaders</SimpleData>
+		<SimpleData name="Latitude">49.40192</SimpleData>
+		<SimpleData name="Longitude">8.6803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6803,49.40192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Heidelberg</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Germany</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">49.40192</SimpleData>
+		<SimpleData name="Longitude">8.6803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.6803,49.40192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Neuss</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Germany</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Internatioal Harvester Germany</SimpleData>
+		<SimpleData name="Latitude">51.19843</SimpleData>
+		<SimpleData name="Longitude">6.69529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.69529,51.19843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Neuss</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Germany</SimpleData>
+		<SimpleData name="Plant_Type">Engineering Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">51.19843</SimpleData>
+		<SimpleData name="Longitude">6.69529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.69529,51.19843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Neuss</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Germany</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors,Diesel Engines</SimpleData>
+		<SimpleData name="Latitude">51.19843</SimpleData>
+		<SimpleData name="Longitude">6.69529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.69529,51.19843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Neuss</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Germany</SimpleData>
+		<SimpleData name="Plant_Type">Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">51.19843</SimpleData>
+		<SimpleData name="Longitude">6.69529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.69529,51.19843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Athens</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Greece</SimpleData>
+		<SimpleData name="Plant_Type">Regional Sales Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">37.97534</SimpleData>
+		<SimpleData name="Longitude">23.73615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.73615,37.97534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Bombay</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">India</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Mahindra and Mahindra Ltd.</SimpleData>
+		<SimpleData name="Latitude">18.96905</SimpleData>
+		<SimpleData name="Longitude">72.82118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.82118,18.96905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Bombay</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">India</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Implements</SimpleData>
+		<SimpleData name="Latitude">18.96905</SimpleData>
+		<SimpleData name="Longitude">72.82118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.82118,18.96905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Nagpur</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">India</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Implements</SimpleData>
+		<SimpleData name="Latitude">21.15262</SimpleData>
+		<SimpleData name="Longitude">79.0882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.0882,21.15262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Dublin</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Ireland</SimpleData>
+		<SimpleData name="Plant_Type">Energy Services International</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">53.3441</SimpleData>
+		<SimpleData name="Longitude">-6.26749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.26749,53.3441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Milan</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Italy</SimpleData>
+		<SimpleData name="Plant_Type">Sales Subsidiary</SimpleData>
+		<SimpleData name="Product">International Harvester Italiana, S.p.A.</SimpleData>
+		<SimpleData name="Latitude">45.46362</SimpleData>
+		<SimpleData name="Longitude">9.18812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18812,45.46362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Milan</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Italy</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">45.46362</SimpleData>
+		<SimpleData name="Longitude">9.18812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.18812,45.46362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Kawagoe</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Japan</SimpleData>
+		<SimpleData name="Plant_Type">KIMCO Factory</SimpleData>
+		<SimpleData name="Product">Wheeled Front End Loaders</SimpleData>
+		<SimpleData name="Latitude">35.91769</SimpleData>
+		<SimpleData name="Longitude">139.49106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.49106,35.91769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Kawagoe</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Japan</SimpleData>
+		<SimpleData name="Plant_Type">Solar Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">35.91769</SimpleData>
+		<SimpleData name="Longitude">139.49106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.49106,35.91769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Mooka</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Japan</SimpleData>
+		<SimpleData name="Plant_Type">KIMCO Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors, Collateral</SimpleData>
+		<SimpleData name="Latitude">36.4409</SimpleData>
+		<SimpleData name="Longitude">140.00931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>140.00931,36.4409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Tokyo</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Japan</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Komatsu International Manufacturing Co. Ltd,</SimpleData>
+		<SimpleData name="Latitude">35.68696</SimpleData>
+		<SimpleData name="Longitude">139.74946</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.74946,35.68696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Tokyo</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Japan</SimpleData>
+		<SimpleData name="Plant_Type">Solar Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">35.68696</SimpleData>
+		<SimpleData name="Longitude">139.74946</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>139.74946,35.68696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Saltillo</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors,Farm Implements</SimpleData>
+		<SimpleData name="Latitude">25.42139</SimpleData>
+		<SimpleData name="Longitude">-101.00024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.00024,25.42139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Saltillo</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">25.42139</SimpleData>
+		<SimpleData name="Longitude">-101.00024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.00024,25.42139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Mexico City</SimpleData>
+		<SimpleData name="State">D.F.</SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Mexico</SimpleData>
+		<SimpleData name="Latitude">19.32761</SimpleData>
+		<SimpleData name="Longitude">-99.01912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.01912,19.32761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Mexico City</SimpleData>
+		<SimpleData name="State">D.F.</SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Maquinara Hidraulica Mexicana, S.A.</SimpleData>
+		<SimpleData name="Latitude">19.32761</SimpleData>
+		<SimpleData name="Longitude">-99.01912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.01912,19.32761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Mexico City</SimpleData>
+		<SimpleData name="State">D.F.</SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Excavators,Small Crawlers</SimpleData>
+		<SimpleData name="Latitude">19.32761</SimpleData>
+		<SimpleData name="Longitude">-99.01912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.01912,19.32761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Mexico City</SimpleData>
+		<SimpleData name="State">D.F.</SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Fabrica de Autotransport Mexicana S.A.</SimpleData>
+		<SimpleData name="Latitude">19.32761</SimpleData>
+		<SimpleData name="Longitude">-99.01912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.01912,19.32761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Tiainepantia</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">19.43268</SimpleData>
+		<SimpleData name="Longitude">-99.13421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.13421,19.43268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Santiago</SimpleData>
+		<SimpleData name="State">Tianguistenco</SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">(FAMSA) Trucks</SimpleData>
+		<SimpleData name="Latitude">19.18039</SimpleData>
+		<SimpleData name="Longitude">-99.46738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.46738,19.18039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Veracruz</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Mexico</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Turbinas Solar S.a. de C.V.</SimpleData>
+		<SimpleData name="Latitude">19.20033</SimpleData>
+		<SimpleData name="Longitude">-96.13893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.13893,19.20033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Casablanca</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Morocco</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Compagne Internationale de Machines Agricoleset de Genie Civil</SimpleData>
+		<SimpleData name="Latitude">33.59646</SimpleData>
+		<SimpleData name="Longitude">-7.61548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.61548,33.59646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Eindhoven</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Netherlands</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Van Doomes Bedrijfswagenfabrie (DAF)</SimpleData>
+		<SimpleData name="Latitude">51.4366</SimpleData>
+		<SimpleData name="Longitude">5.478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.478,51.4366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Eindhoven</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Netherlands</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks,Diesel Engines</SimpleData>
+		<SimpleData name="Latitude">51.4366</SimpleData>
+		<SimpleData name="Longitude">5.478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.478,51.4366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Geidrop</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Netherlands</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">DAF Trucks</SimpleData>
+		<SimpleData name="Latitude">51.4222</SimpleData>
+		<SimpleData name="Longitude">5.55722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.55722,51.4222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Curacao</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Netherlands Antilles</SimpleData>
+		<SimpleData name="Plant_Type"></SimpleData>
+		<SimpleData name="Product">International Harvester overseas Finanz Co. N.V.</SimpleData>
+		<SimpleData name="Latitude">52.05332</SimpleData>
+		<SimpleData name="Longitude">4.53619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.53619,52.05332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Christschurch</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">New Zealand</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors,Implements,Trucks,Wheel Loaders</SimpleData>
+		<SimpleData name="Latitude">-43.5308</SimpleData>
+		<SimpleData name="Longitude">172.638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.638,-43.5308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Christschurch</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">New Zealand</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester New Zealand, Ltd.</SimpleData>
+		<SimpleData name="Latitude">-43.5308</SimpleData>
+		<SimpleData name="Longitude">172.638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.638,-43.5308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Christschurch</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">New Zealand</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Retail, Ltd.</SimpleData>
+		<SimpleData name="Latitude">-43.5308</SimpleData>
+		<SimpleData name="Longitude">172.638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.638,-43.5308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Christschurch</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">New Zealand</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Credit Company of New Zealand, Ltd.</SimpleData>
+		<SimpleData name="Latitude">-43.5308</SimpleData>
+		<SimpleData name="Longitude">172.638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.638,-43.5308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Christschurch</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">New Zealand</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-43.5308</SimpleData>
+		<SimpleData name="Longitude">172.638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.638,-43.5308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Auckland</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">New Zealand</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-36.85361</SimpleData>
+		<SimpleData name="Longitude">174.76499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.76499,-36.85361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Manila</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Philippines</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester MacLeod, Inc.</SimpleData>
+		<SimpleData name="Latitude">14.58226</SimpleData>
+		<SimpleData name="Longitude">120.9748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.9748,14.58226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Manila</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Philippines</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">14.58226</SimpleData>
+		<SimpleData name="Longitude">120.9748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120.9748,14.58226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Pasig</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Philippines</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks, Farm Tractors, Farm Implements</SimpleData>
+		<SimpleData name="Latitude">14.55982</SimpleData>
+		<SimpleData name="Longitude">121.08064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.08064,14.55982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City"></SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Singapore</SimpleData>
+		<SimpleData name="Plant_Type">Regional Sales Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">1.28944</SimpleData>
+		<SimpleData name="Longitude">103.84998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.84998,1.28944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City"></SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Singapore</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">1.28944</SimpleData>
+		<SimpleData name="Longitude">103.84998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.84998,1.28944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City"></SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Singapore</SimpleData>
+		<SimpleData name="Plant_Type">Solar Regional Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">1.28944</SimpleData>
+		<SimpleData name="Longitude">103.84998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.84998,1.28944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City"></SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Singapore</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Singapore (Pty), Ltd.</SimpleData>
+		<SimpleData name="Latitude">1.28944</SimpleData>
+		<SimpleData name="Longitude">103.84998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.84998,1.28944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Isando</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">South Africa</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Company of South Africa (PTY),Ltd.</SimpleData>
+		<SimpleData name="Latitude">-26.13794</SimpleData>
+		<SimpleData name="Longitude">28.20408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.20408,-26.13794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Isando</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">South Africa</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Credit Corporation of South Africa (PTY),Ltd.</SimpleData>
+		<SimpleData name="Latitude">-26.13794</SimpleData>
+		<SimpleData name="Longitude">28.20408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.20408,-26.13794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Isando</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">South Africa</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">-26.13794</SimpleData>
+		<SimpleData name="Longitude">28.20408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.20408,-26.13794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Johannesburg</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">South Africa</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Soilmaster Ltd.</SimpleData>
+		<SimpleData name="Latitude">-26.20145</SimpleData>
+		<SimpleData name="Longitude">28.04549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.04549,-26.20145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Pietermaritzburg</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">South Africa</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks,Farm Tractors</SimpleData>
+		<SimpleData name="Latitude">-29.60351</SimpleData>
+		<SimpleData name="Longitude">30.37962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.37962,-29.60351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Madrid</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Spain</SimpleData>
+		<SimpleData name="Plant_Type">Subsidiary</SimpleData>
+		<SimpleData name="Product">International Harvester Spain, S.A.</SimpleData>
+		<SimpleData name="Latitude">40.41669</SimpleData>
+		<SimpleData name="Longitude">-3.70034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.70034,40.41669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Stockholm</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Sweden</SimpleData>
+		<SimpleData name="Plant_Type">Sales Subsidiary</SimpleData>
+		<SimpleData name="Product">Aktiebolagel International Harvester Sweden</SimpleData>
+		<SimpleData name="Latitude">59.33279</SimpleData>
+		<SimpleData name="Longitude">18.06449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.06449,59.33279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Zurich</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Switzerland</SimpleData>
+		<SimpleData name="Plant_Type">Finance Subsidiary</SimpleData>
+		<SimpleData name="Product">International Harvester Finanz AG</SimpleData>
+		<SimpleData name="Latitude">47.36902</SimpleData>
+		<SimpleData name="Longitude">8.53803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.53803,47.36902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Istanbul</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Turkey</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Turk Otomotive Endustrilen</SimpleData>
+		<SimpleData name="Latitude">41.013</SimpleData>
+		<SimpleData name="Longitude">28.9748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.9748,41.013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Tuzia</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Turkey</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks, Farm Tractors</SimpleData>
+		<SimpleData name="Latitude">40.99186</SimpleData>
+		<SimpleData name="Longitude">35.79491</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.79491,40.99186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Atlanta</SimpleData>
+		<SimpleData name="State">Georgia</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">33.74855</SimpleData>
+		<SimpleData name="Longitude">-84.3915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.3915,33.74855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Antioch</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Payline Testing and Proving Grounds</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">42.47724</SimpleData>
+		<SimpleData name="Longitude">-88.09577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.09577,42.47724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Baltimore</SimpleData>
+		<SimpleData name="State">Maryland</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">39.29044</SimpleData>
+		<SimpleData name="Longitude">-76.61233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.61233,39.29044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Broadview</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Parts Distribution Division</SimpleData>
+		<SimpleData name="Latitude">41.86408</SimpleData>
+		<SimpleData name="Longitude">-87.85303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.85303,41.86408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Broadview</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.86408</SimpleData>
+		<SimpleData name="Longitude">-87.85303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.85303,41.86408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Brookfield</SimpleData>
+		<SimpleData name="State">Wisconsin</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Computer Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.06079</SimpleData>
+		<SimpleData name="Longitude">-88.11922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.11922,43.06079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Canton</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tillage Tools</SimpleData>
+		<SimpleData name="Latitude">40.55827</SimpleData>
+		<SimpleData name="Longitude">-90.03509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.03509,40.55827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">World Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Company</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Credit Corporation</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Harco Leasing Co.</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Southern Energy Co. Oil and Gas Drilling</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Export Co.</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">The Monarch Agency, Inc.</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Overseas Services Co.</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">International Harvester Domestic International Sales Co. (DISC)</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Components</SimpleData>
+		<SimpleData name="Latitude">41.88323</SimpleData>
+		<SimpleData name="Longitude">-87.6324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6324,41.88323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Columbus</SimpleData>
+		<SimpleData name="State">Ohio</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">39.96276</SimpleData>
+		<SimpleData name="Longitude">-82.99629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.99629,39.96276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Dallas</SimpleData>
+		<SimpleData name="State">Texas</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.77798</SimpleData>
+		<SimpleData name="Longitude">-96.79621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.79621,32.77798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Dallas</SimpleData>
+		<SimpleData name="State">Texas</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Solar Product Support Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.77798</SimpleData>
+		<SimpleData name="Longitude">-96.79621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.79621,32.77798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">East Moline</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Combines,Planters,Control Centers</SimpleData>
+		<SimpleData name="Latitude">41.50056</SimpleData>
+		<SimpleData name="Longitude">-90.44441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.44441,41.50056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fargo</SimpleData>
+		<SimpleData name="State">North Dakota</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Steiner Tractor Co.</SimpleData>
+		<SimpleData name="Latitude">46.87696</SimpleData>
+		<SimpleData name="Longitude">-96.78464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.78464,46.87696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fargo</SimpleData>
+		<SimpleData name="State">North Dakota</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors</SimpleData>
+		<SimpleData name="Latitude">46.87696</SimpleData>
+		<SimpleData name="Longitude">-96.78464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.78464,46.87696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fort Wayne</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Truck Engineering and Design Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.07747</SimpleData>
+		<SimpleData name="Longitude">-85.13749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.13749,41.07747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fort Wayne</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks, Scout Vehicles</SimpleData>
+		<SimpleData name="Latitude">41.07747</SimpleData>
+		<SimpleData name="Longitude">-85.13749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.13749,41.07747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fort Wayne</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.07747</SimpleData>
+		<SimpleData name="Longitude">-85.13749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.13749,41.07747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fort Wayne</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Materials Management Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.07747</SimpleData>
+		<SimpleData name="Longitude">-85.13749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.13749,41.07747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Fort Wayne</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Truck Proving Ground</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.07747</SimpleData>
+		<SimpleData name="Longitude">-85.13749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.13749,41.07747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Gardena</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Superior Gear Subsidiary</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">33.88376</SimpleData>
+		<SimpleData name="Longitude">-118.30914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.30914,33.88376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Gulfport</SimpleData>
+		<SimpleData name="State">Mississippi</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Playline Products Distribution, Co.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">30.36977</SimpleData>
+		<SimpleData name="Longitude">-89.09154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.09154,30.36977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Gulfport</SimpleData>
+		<SimpleData name="State">Mississippi</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Industrial Tractors</SimpleData>
+		<SimpleData name="Latitude">30.36977</SimpleData>
+		<SimpleData name="Longitude">-89.09154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.09154,30.36977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hinsdale</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Agricultural Equipment Research and Engineering Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.80369</SimpleData>
+		<SimpleData name="Longitude">-87.92724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.92724,41.80369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hinsdale</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Computer Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.80369</SimpleData>
+		<SimpleData name="Longitude">-87.92724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.92724,41.80369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hinsdale</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Manufacturing Research Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.80369</SimpleData>
+		<SimpleData name="Longitude">-87.92724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.92724,41.80369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hinsdale</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Manufacturing and Facility Planning Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.80369</SimpleData>
+		<SimpleData name="Longitude">-87.92724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.92724,41.80369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Hinsdale</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Industrial Design Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.80369</SimpleData>
+		<SimpleData name="Longitude">-87.92724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.92724,41.80369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Indianapolis</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Gas and Diesel Engines</SimpleData>
+		<SimpleData name="Latitude">39.76845</SimpleData>
+		<SimpleData name="Longitude">-86.15621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.15621,39.76845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Indianapolis</SimpleData>
+		<SimpleData name="State">Indiana</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">39.76845</SimpleData>
+		<SimpleData name="Longitude">-86.15621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.15621,39.76845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Kansas City</SimpleData>
+		<SimpleData name="State">Kansas</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">39.09979</SimpleData>
+		<SimpleData name="Longitude">-94.57856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.57856,39.09979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Libertyville</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Front End Loaders, Scrapers, Off-Road Trucks</SimpleData>
+		<SimpleData name="Latitude">42.283</SimpleData>
+		<SimpleData name="Longitude">-87.95334</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.95334,42.283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Louisville</SimpleData>
+		<SimpleData name="State">Kentucky</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Outdoor Power Products,Transmissions,Components</SimpleData>
+		<SimpleData name="Latitude">38.19937</SimpleData>
+		<SimpleData name="Longitude">-85.65353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.65353,38.19937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Louisville</SimpleData>
+		<SimpleData name="State">Kentucky</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">38.19937</SimpleData>
+		<SimpleData name="Longitude">-85.65353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.65353,38.19937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Melrose Park</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Crawler Tractors,Engines</SimpleData>
+		<SimpleData name="Latitude">41.89343</SimpleData>
+		<SimpleData name="Longitude">-87.85661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.85661,41.89343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Melrose Park</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Payline Engineering Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.89343</SimpleData>
+		<SimpleData name="Longitude">-87.85661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.85661,41.89343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Melrose Park</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Engine Engineering Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.89343</SimpleData>
+		<SimpleData name="Longitude">-87.85661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.85661,41.89343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Memphis</SimpleData>
+		<SimpleData name="State">Tennessee</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Cotton Harvesting Equipment,Farm Implements,Hay Tools</SimpleData>
+		<SimpleData name="Latitude">35.14338</SimpleData>
+		<SimpleData name="Longitude">-90.05214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.05214,35.14338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Memphis</SimpleData>
+		<SimpleData name="State">Tennessee</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Nodular Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">35.14338</SimpleData>
+		<SimpleData name="Longitude">-90.05214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.05214,35.14338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Memphis</SimpleData>
+		<SimpleData name="State">Tennessee</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">35.14338</SimpleData>
+		<SimpleData name="Longitude">-90.05214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.05214,35.14338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Milwaukee</SimpleData>
+		<SimpleData name="State">Wisconsin</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Harco Holdings Inc. Insurance Company</SimpleData>
+		<SimpleData name="Latitude">43.04107</SimpleData>
+		<SimpleData name="Longitude">-87.90942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.90942,43.04107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Milwaukee</SimpleData>
+		<SimpleData name="State">Wisconsin</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Association Life Insurance Co. Inc.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.04107</SimpleData>
+		<SimpleData name="Longitude">-87.90942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.90942,43.04107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Milwaukee</SimpleData>
+		<SimpleData name="State">Wisconsin</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Harco Insurance Service Inc.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.04107</SimpleData>
+		<SimpleData name="Longitude">-87.90942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.90942,43.04107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Milwaukee</SimpleData>
+		<SimpleData name="State">Wisconsin</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Harco National Insurance Service Inc.</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.04107</SimpleData>
+		<SimpleData name="Longitude">-87.90942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.90942,43.04107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Miami</SimpleData>
+		<SimpleData name="State">Florida</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Latin American Regional Sales Office</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">25.77508</SimpleData>
+		<SimpleData name="Longitude">-80.1947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.1947,25.77508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Phoenix</SimpleData>
+		<SimpleData name="State">Arizona</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Proving Ground</SimpleData>
+		<SimpleData name="Product">Trucks, Agricultural Equipment, Payline</SimpleData>
+		<SimpleData name="Latitude">33.4482</SimpleData>
+		<SimpleData name="Longitude">-112.07258</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.07258,33.4482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Richmond</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">37.93786</SimpleData>
+		<SimpleData name="Longitude">-122.34315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.34315,37.93786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Rock Island</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Farm Tractors</SimpleData>
+		<SimpleData name="Latitude">41.47235</SimpleData>
+		<SimpleData name="Longitude">-90.58357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.58357,41.47235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Schaumburg</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Payline Group</SimpleData>
+		<SimpleData name="Latitude">42.02625</SimpleData>
+		<SimpleData name="Longitude">-88.0697</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0697,42.02625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Schaumburg</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Engineering Center</SimpleData>
+		<SimpleData name="Product">Industrial Equipment</SimpleData>
+		<SimpleData name="Latitude">42.02625</SimpleData>
+		<SimpleData name="Longitude">-88.0697</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0697,42.02625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Solar Turbines International Group</SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Turbines</SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Drive Packages</SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Components</SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Solar Turbines International Co.</SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Solar Turbines Ltd.</SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">San Diego</SimpleData>
+		<SimpleData name="State">California</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Product Support Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">32.71576</SimpleData>
+		<SimpleData name="Longitude">-117.16382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.16382,32.71576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">St. Paul</SimpleData>
+		<SimpleData name="State">Minnesota</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">44.94372</SimpleData>
+		<SimpleData name="Longitude">-93.09428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.09428,44.94372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Shadyside</SimpleData>
+		<SimpleData name="State">Ohio</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Sheet Metal Stampings for Trucks</SimpleData>
+		<SimpleData name="Latitude">39.97075</SimpleData>
+		<SimpleData name="Longitude">-80.74941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.74941,39.97075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Springfield</SimpleData>
+		<SimpleData name="State">Ohio</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks,Truck Bodies</SimpleData>
+		<SimpleData name="Latitude">39.92458</SimpleData>
+		<SimpleData name="Longitude">-83.81014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.81014,39.92458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Springfield</SimpleData>
+		<SimpleData name="State">Missouri</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Payline Remanufacturing Center</SimpleData>
+		<SimpleData name="Product">Engines,Components</SimpleData>
+		<SimpleData name="Latitude">37.21552</SimpleData>
+		<SimpleData name="Longitude">-93.29236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.29236,37.21552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Wagoner</SimpleData>
+		<SimpleData name="State">Oklahoma</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Heavy Trucks</SimpleData>
+		<SimpleData name="Latitude">35.95979</SimpleData>
+		<SimpleData name="Longitude">-95.3779</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.3779,35.95979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Waukesha</SimpleData>
+		<SimpleData name="State">Wisconsin</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Foundry</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">43.0128</SimpleData>
+		<SimpleData name="Longitude">-88.23509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.23509,43.0128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">West Chicago</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Parts Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.88466</SimpleData>
+		<SimpleData name="Longitude">-88.2049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2049,41.88466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Westmont</SimpleData>
+		<SimpleData name="State">Illinois</SimpleData>
+		<SimpleData name="Country">United States</SimpleData>
+		<SimpleData name="Plant_Type">Printing and Distribution Center</SimpleData>
+		<SimpleData name="Product"></SimpleData>
+		<SimpleData name="Latitude">41.79526</SimpleData>
+		<SimpleData name="Longitude">-87.97532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.97532,41.79526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Caracas</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Venezuela</SimpleData>
+		<SimpleData name="Plant_Type">Headquarters</SimpleData>
+		<SimpleData name="Product">Indistria zvenezolana de Maquinanas S.A.</SimpleData>
+		<SimpleData name="Latitude">10.1825</SimpleData>
+		<SimpleData name="Longitude">-67.97962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.97962,10.1825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#IHC_Plants">
+		<SimpleData name="City">Caracas</SimpleData>
+		<SimpleData name="State"></SimpleData>
+		<SimpleData name="Country">Venezuela</SimpleData>
+		<SimpleData name="Plant_Type">Factory</SimpleData>
+		<SimpleData name="Product">Trucks</SimpleData>
+		<SimpleData name="Latitude">10.1825</SimpleData>
+		<SimpleData name="Longitude">-67.97962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.97962,10.1825</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
