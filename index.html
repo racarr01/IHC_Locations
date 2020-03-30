@@ -44,7 +44,7 @@
 
       // show a marker on the map
       L.marker({lon: 0, lat: 0}).bindPopup('The center of the world').addTo(map);
-      alert("loading Json")
+      console.log("loading Json")
       var IHPromise = $.getJSON("./IHC_Plants/IHC_Plants_topo.json");
 	    IHPromise.then(function(data){
 	        //When GeoJSON is loaded
@@ -58,6 +58,7 @@
 	      
             markers.addLayer(IHPlantsLayer);
             map.addLayer(markers);
+            map.addLayer(IHPlantsLayer)
         });
 
 
