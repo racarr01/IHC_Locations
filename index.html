@@ -52,7 +52,8 @@
             var markers = L.markerClusterGroup();
 	        var IHPlantsLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
-                    layer.bindPopup(feature.properties.Plant_Type);
+                    layer.bindPopup(feature.properties.Plant_Type +
+                    '<br />' + feature.properties.Product);
                 }});    
                     //New GeoJSON layer
 	      
