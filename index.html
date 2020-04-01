@@ -18,7 +18,7 @@
    <script src="https://unpkg.com/esri-leaflet@2.3.3/dist/esri-leaflet.js"
   integrity="sha512-cMQ5e58BDuu1pr9BQ/eGRn6HaR6Olh0ofcHFWe5XesdCITVuSBiBZZbhCijBe5ya238f/zMMRYIMIIg1jxv4sQ=="
   crossorigin=""></script>
-   <script src="https://d3js.org/topojson.v1.min.js"></script>
+  
     <style>
       html, body {
         height: 100%;
@@ -61,8 +61,14 @@
             var markers = L.markerClusterGroup();
 	        var IHPlantsLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
+                    var loc_2 = ""
+                    if (feature.properties.State == "") {
+                        loc_2 = feature.properties.State; }
+                    else {
+                        loc_2 = feature.properties.Country;}
+
                     layer.bindPopup(feature.properties.City + ', ' +
-                    feature.properties.State + '<br />' +
+                    loc_2 + '<br />' +
                     feature.properties.Plant_Type +
                     '<br />' + feature.properties.Product);
                 }});    
