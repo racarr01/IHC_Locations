@@ -61,11 +61,11 @@
             var markers = L.markerClusterGroup();
 	        var IHPlantsLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
-                    var loc_2 = ""
-                    if (feature.properties.State == "") {
-                        loc_2 = feature.properties.State; }
+                    var loc_2;
+                    if (!feature.properties.State) {
+                        loc_2 = feature.properties.Country; }
                     else {
-                        loc_2 = feature.properties.Country;}
+                        loc_2 = feature.properties.State;}
 
                     layer.bindPopup(feature.properties.City + ', ' +
                     loc_2 + '<br />' +
