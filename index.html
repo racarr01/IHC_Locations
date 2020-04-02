@@ -38,6 +38,9 @@
       // initialize Leaflet
       var map = L.map('map').setView({lon: 0, lat: 0}, 2);
 
+      //array for  location json files
+      var IH_json_urls = {plants: "./IHC_Plants/IHC_Plants.geojson"};
+
       // add the OpenStreetMap tiles
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
@@ -57,7 +60,7 @@
       
       // add IHC Plants Layer
       console.log("loading Json")
-      var IHPromise = $.getJSON("./IHC_Plants/IHC_Plants.geojson");
+      var IHPromise = $.getJSON(IH_json_url.plants);
 	    IHPromise.then(function(data){
 	        //When GeoJSON is loaded
             console.log("Loaded")
