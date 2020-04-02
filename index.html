@@ -50,9 +50,12 @@
 
       // show the scale bar on the lower left corner
       L.control.scale().addTo(map);
+      
 
-      // show a marker on the map
-      L.marker({lon: 0, lat: 0}).bindPopup('The center of the world').addTo(map);
+      //test of empty layer
+      var IN_Dealers = new L.GeoJson();
+      
+      // add IHC Plants Layer
       console.log("loading Json")
       var IHPromise = $.getJSON("./IHC_Plants/IHC_Plants.geojson");
 	    IHPromise.then(function(data){
