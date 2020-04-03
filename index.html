@@ -44,7 +44,7 @@
 
       //array for  location json files
       const IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
-          IN_dealers: "./Indiana/iniana.geojson",
+          IN_dealers: "./Indiana/indiana.geojson",
           MI_dealers: "./Michigan/michigan.geojson" };
 
        //check code
@@ -96,7 +96,7 @@
         });
 
         function mk_IH_Layer(url) {
-            var IHPromise = $.getJSON(url);
+            var IHPromise = $.getJSON(IH_json_url[url]);
             console.log(url + ':' + IH_json_url[url] );
             IHPromise.then(function(data) {
                 console.log("loaded");
