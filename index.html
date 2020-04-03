@@ -95,7 +95,7 @@
             map.addLayer(markers);
         });
 
-        function mk_IH_Layers(url) {
+        function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(url);
             console.log(url + ':' + IH_json_url[url] );
             IHPromise.then(function(data) {
