@@ -43,13 +43,13 @@
       var map = L.map('map').setView({lon: 0, lat: 0}, 2);
 
       //array for  location json files
-      var IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
+      const IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
           IN_dealers: "./Indiana/iniana.geojson",
           MI_dealers: "./Michigan/michigan.geojson" };
 
        //check code
        for (const uri in IH_json_url) {
-           console.log(${uri}: ${IH_json_url[uri]} );
+           console.log('${uri}: ${IH_json_url[uri]}' );
         }
 
       // add the OpenStreetMap tiles
