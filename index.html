@@ -49,7 +49,7 @@
 
        //check code
        for (const uri in IH_json_url) {
-           console.log(uri + ':' + IH_json_url[uri] );
+          mk_IH_Layer(uri) 
         }
 
       // add the OpenStreetMap tiles
@@ -97,7 +97,9 @@
 
         function mk_IH_Layers(url) {
             var IHPromise = $.getJSON(url);
+            console.log(url + ':' + IH_json_url[url] );
             IHPromise.then(function(data) {
+                console.log("loaded");
             });
          }
 
