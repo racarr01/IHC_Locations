@@ -47,6 +47,11 @@
           IN_dealers: "./Indiana/iniana.geojson",
           MI_dealers: "./Michigan/michigan.geojson" };
 
+       //check code
+       for (const uri in IH_json_url) {
+           console.log(${uri}: ${IH_json_url[uri]} );
+        }
+
       // add the OpenStreetMap tiles
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
