@@ -42,6 +42,10 @@
       // initialize Leaflet
       //var map = L.map('map').setView({lon: 0, lat: 0}, 2);
       var markers = L.markerClusterGroup();
+      const IH_Markers = {plants: L.markerClusterGroup(),
+          IH_dealers: L.markerClusterGroup((),
+          MI_dealers: L.markerClusterGroup()
+      };
       //array for  location json files
       const IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
           IN_dealers: "./Indiana/indiana.geojson",
