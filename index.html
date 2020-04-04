@@ -40,7 +40,7 @@
     <div id="map"></div>
     <script>
       // initialize Leaflet
-      var map = L.map('map').setView({lon: 0, lat: 0}, 2);
+      //var map = L.map('map').setView({lon: 0, lat: 0}, 2);
       var markers = L.markerClusterGroup();
       //array for  location json files
       const IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
@@ -56,7 +56,14 @@
       var OSM =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
-      }).addTo(map);
+      });
+      //.addTo(map);
+
+      var map = L.map('map',{
+		center: [0,0],
+		zoom: 2,
+		layers: [OSM]
+	  });
 
       // esri basemap layer
       //var layer = L.esri.basemapLayer('Topographic').addTo(map);
