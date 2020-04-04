@@ -87,7 +87,7 @@
 	        //When GeoJSON is loaded
             console.log("Loaded")
             //var markers = L.markerClusterGroup();
-	        var IHPlantsLayer = new L.GeoJSON(data, {
+	        var IHLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
                     var loc_2;
                     if (!feature.properties.State) {
@@ -102,7 +102,7 @@
                 }});    
                     //New GeoJSON layer
 	      
-            IH_Markers.plants.addLayer(IHPlantsLayer);
+            IH_Markers.plants.addLayer(IHLayer);
             map.addLayer(IH_Markers.plants);
         });
 
