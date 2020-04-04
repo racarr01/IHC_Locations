@@ -92,13 +92,13 @@
                     //New GeoJSON layer
 	      
             markers.addLayer(IHPlantsLayer);
-            //map.addLayer(markers);
+            map.addLayer(markers);
         });
 
         var map = L.map('map', {
 		    center: [0,0],
 		    zoom: 2,
-		layers: [OSM, markers]
+		layers: [OSM]
 	    });
 
         function mk_IH_Layer(url) {
