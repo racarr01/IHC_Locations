@@ -40,8 +40,8 @@
     <div id="map"></div>
     <script>
       // initialize Leaflet
-      var map = L.map('map').setView({lon: 0, lat: 0}, 2);
-
+      //var map = L.map('map').setView({lon: 0, lat: 0}, 2);
+      var markers = L.markerClusterGroup();
       //array for  location json files
       const IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
           IN_dealers: "./Indiana/indiana.geojson",
@@ -53,10 +53,10 @@
         }
 
       // add the OpenStreetMap tiles
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      var OSM =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
-      }).addTo(map);
+      });
 
       // esri basemap layer
       //var layer = L.esri.basemapLayer('Topographic').addTo(map);
@@ -75,7 +75,7 @@
 	    IHPromise.then(function(data){
 	        //When GeoJSON is loaded
             console.log("Loaded")
-            var markers = L.markerClusterGroup();
+            //var markers = L.markerClusterGroup();
 	        var IHPlantsLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
                     var loc_2;
@@ -92,8 +92,14 @@
                     //New GeoJSON layer
 	      
             markers.addLayer(IHPlantsLayer);
-            map.addLayer(markers);
+            //map.addLayer(markers);
         });
+
+        var map = L.map('map', {
+		    center: [0,0],
+		    zoom: 2,
+		layers: [OSM, markers]
+	    });
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
