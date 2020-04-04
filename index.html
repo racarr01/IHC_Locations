@@ -58,6 +58,12 @@
         attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
       });
 
+      var map = L.map('map', {
+		    center: [0,0],
+		    zoom: 2,
+		    layers: [OSM]
+	    });
+
       // esri basemap layer
       //var layer = L.esri.basemapLayer('Topographic').addTo(map);
 
@@ -95,11 +101,7 @@
             //map.addLayer(markers);
         });
 
-        var map = L.map('map', {
-		    center: [0,0],
-		    zoom: 2,
-		    layers: [OSM]
-	    });
+        
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
