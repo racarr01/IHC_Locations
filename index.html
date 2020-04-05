@@ -46,7 +46,7 @@
           "MI_dealers" : { id : "MI_dealers", lyr: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" }
        }
        
-  
+      /*  
       const IH_Markers = {plants: L.markerClusterGroup(),
           IH_dealers: L.markerClusterGroup(),
           MI_dealers: L.markerClusterGroup()
@@ -61,6 +61,7 @@
           mk_IH_Layer(uri) 
         }
       
+      */
 
       // add the OpenStreetMap tiles
       var OSM =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -92,8 +93,7 @@
 	    IHPromise.then(function(data){
 	        //When GeoJSON is loaded
             console.log("Loaded")
-            //var markers = L.markerClusterGroup();
-            //IH_layers["plants"].lyr = L.markerClusterGroup();
+            
 	        var IHLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
                     var loc_2;
