@@ -41,9 +41,9 @@
     <script>
       // initialize the IH Layers
       const IH_layers = {
-          "plants" : { id: "plants", layer_type: L.markerClusterGroup(), url: "./IHC_Plants/IHC_Plants.geojson" },
-          "IN_dealers" : { id : "IN_dealers", layer_type: L.markerClusterGroup(), url: "./Indiana/indiana.geojson" },
-          "MI_dealers" : { id : "MI_dealers", layer_type: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" }
+          "plants" : { id: "plants", lyr: L.markerClusterGroup(), url: "./IHC_Plants/IHC_Plants.geojson" },
+          "IN_dealers" : { id : "IN_dealers", lyr: L.markerClusterGroup(), url: "./Indiana/indiana.geojson" },
+          "MI_dealers" : { id : "MI_dealers", lyr: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" }
        }
        
   
@@ -93,7 +93,7 @@
 	        //When GeoJSON is loaded
             console.log("Loaded")
             //var markers = L.markerClusterGroup();
-            IH_layers["plants"] = L.markerClusterGroup();
+            IH_layers["plants"].lyr = L.markerClusterGroup();
 	        var IHLayer = new L.GeoJSON(data, {
                 onEachFeature: function (feature,layer) {
                     var loc_2;
@@ -109,8 +109,8 @@
                 }});    
                     //New GeoJSON layer
 	      
-            IH_layers["plants"].addLayer(IHLayer);
-            map.addLayer(IH_layers["plants"]);
+            IH_layers["plants"].layer.addLayer(IHLayer);
+            map.addLayer(IH_layers["plants"].lyr);
             console.log(IH_layers["plants"].url);
         });
 
