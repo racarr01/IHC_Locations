@@ -89,7 +89,7 @@
       
       // add IHC Plants Layer
       console.log("loading Json")
-      var IHPromise = $.getJSON(IH_json_url.plants);
+      var IHPromise = $.getJSON(IH_layers["plants"].url);
 	    IHPromise.then(function(data){
 	        //When GeoJSON is loaded
             console.log("Loaded")
