@@ -39,9 +39,14 @@
   <body>
     <div id="map"></div>
     <script>
-      // initialize Leaflet
-      //var map = L.map('map').setView({lon: 0, lat: 0}, 2);
-      //var markers = L.markerClusterGroup();
+      // initialize the IH Layers
+      const IH_layers = {
+          "markers" : { id: "markers", layer_type: L.markerClusterGroup(), url: "./IHC_Plants/IHC_Plants.geojson" },
+          "IN_dealers" : { id : "IN_dealers", layer_type: L.markerClusterGroup(), url: "./Indiana/indiana.geojson" },
+          "MI_dealers" : { id : "MI_dealers", layer_type: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" }
+       }
+       
+  
       const IH_Markers = {plants: L.markerClusterGroup(),
           IH_dealers: L.markerClusterGroup(),
           MI_dealers: L.markerClusterGroup()
@@ -55,6 +60,7 @@
        for (const uri in IH_json_url) {
           mk_IH_Layer(uri) 
         }
+      
 
       // add the OpenStreetMap tiles
       var OSM =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
