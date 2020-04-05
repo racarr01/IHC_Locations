@@ -46,22 +46,14 @@
           "MI_dealers" : { id : "MI_dealers", lyr: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" }
        }
        
-      /*  
-      const IH_Markers = {plants: L.markerClusterGroup(),
-          IH_dealers: L.markerClusterGroup(),
-          MI_dealers: L.markerClusterGroup()
-      };
-      //array for  location json files
-      const IH_json_url = {plants: "./IHC_Plants/IHC_Plants.geojson",
-          IN_dealers: "./Indiana/indiana.geojson",
-          MI_dealers: "./Michigan/michigan.geojson" };
-
+     
+     
        //check code
-       for (const uri in IH_json_url) {
-          mk_IH_Layer(uri) 
+       for (const lyr in IH_layers) {
+          console.log(lyr.id);
         }
       
-      */
+      
 
       // add the OpenStreetMap tiles
       var OSM =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
