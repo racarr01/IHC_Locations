@@ -48,10 +48,6 @@
        
      
      
-       //check code
-       for (const name in IH_layers) {
-          console.log(IH_layers[name].id);
-        }
       
       
 
@@ -67,46 +63,58 @@
       //var layer = L.esri.basemapLayer('Topographic').addTo(map);
 
 
-      // show the scale bar on the lower left corner
-     // L.control.scale().addTo(map);
+      /
       
 
       //test of empty layer
       var IN_Dealers = new L.GeoJSON();
       
       // add IHC Plants Layer
-      console.log("loading Json")
-      var IHPromise = $.getJSON(IH_layers["plants"].url);
-	    IHPromise.then(function(data){
-	        //When GeoJSON is loaded
-            console.log("Loaded")
-            
-	        var IHLayer = new L.GeoJSON(data, {
-                onEachFeature: function (feature,layer) {
-                    var loc_2;
-                    if (!feature.properties.State) {
-                        loc_2 = feature.properties.Country; }
-                    else {
-                        loc_2 = feature.properties.State;}
+      //console.log("loading Json")
+     
+      //check code
+      for (const name in IH_layers) {
+          
+          console.log(IH_layers[name].id);
+        
+          var IHPromise = $.getJSON(IH_layers[name].url);
+	      IHPromise.then(function(data){
+	          //When GeoJSON is loaded
+              //    console.log("Loaded")
+              if (IH_layers[name].id == "plants") {
+                  var IHLayer = new L.GeoJSON(data, {
+                        onEachFeature: function (feature,layer) {
+                            var loc_2;
+                            if (!feature.properties.State) {
+                                loc_2 = feature.properties.Country; }
+                            else {
+                                loc_2 = feature.properties.State;}
 
-                    layer.bindPopup(feature.properties.City + ', ' +
-                    loc_2 + '<br />' +
-                    feature.properties.Plant_Type +
-                    '<br />' + feature.properties.Product);
-                }});    
+                            layer.bindPopup(feature.properties.City + ', ' +
+                            loc_2 + '<br />' +
+                            feature.properties.Plant_Type +
+                             '<br />' + feature.properties.Product);
+                        }});
+                }    
                     //New GeoJSON layer
 	      
-            IH_layers["plants"].lyr.addLayer(IHLayer);
-           // map.addLayer(IH_layers["plants"].lyr);
-            console.log(IH_layers["plants"].url);
-        });
-
+                IH_layers[name].lyr.addLayer(IHLayer);
+               / map.addLayer(IH_layers["plants"].lyr);
+                //console.log(IH_layers["plants"].url);
+            });
+         
+        } 
+        //end of for loop
+         
+         
          var map = L.map('map',{
-		center: [0,0],
-		zoom: 2,
-		layers: [OSM,IH_layers["plants"].lyr]
-	  });
-
+		     center: [0,0],
+		     zoom: 2,
+		     layers: [OSM,IH_layers["plants"].lyr]
+	     });
+         
+         / show the scale bar on the lower left corner
+         L.control.scale().addTo(map);
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
