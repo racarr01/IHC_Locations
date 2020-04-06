@@ -96,7 +96,17 @@
                             feature.properties.Plant_Type +
                              '<br />' + feature.properties.Product);
                         }});
-                }    
+                }
+                else {
+                  console.log("no");
+                  var IHLayer = new L.GeoJSON(data, {
+                        onEachFeature: function (feature,layer) {
+                            layer.bindPopup(feature.properties.Name);
+                        }});
+
+
+                }
+
                     //New GeoJSON layer
 	      
                 IH_layers[name].lyr.addLayer(IHLayer);
