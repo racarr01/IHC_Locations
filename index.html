@@ -127,6 +127,25 @@
          // show the scale bar on the lower left corner
          L.control.scale().addTo(map);
 
+
+         // Overlay layers are grouped
+         var groupedOverlays = {
+             "IHC Locations": {
+                 "Offices, Plants": IH_layers["plants"].lyr,
+                 "Indiana Dealers": IH_layers["IN_dealers"].lyr,
+                 "Michigan Dealers": IH_layers["MI_dealers"].lyr
+              }
+         };
+
+         var options = {
+         // Make the "Landmarks" group exclusive (use radio inputs)
+             exclusiveGroups: ["IHC Locations"]
+         };
+
+         // Use the custom grouped layer control, not "L.control.layers"
+         var layerControl = L.control.groupedLayers(OSM, groupedOverlays, options);
+             map.addControl(layerControl);
+
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
             console.log(url + ':' + IH_json_url[url] );
