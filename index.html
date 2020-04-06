@@ -127,19 +127,25 @@
          // show the scale bar on the lower left corner
          L.control.scale().addTo(map);
 
+         var basemaps = {
+             "Open Street Map" : osm
+         };
 
          // Overlay layers are grouped
          var overlayLayers = {
-             "Offices, Plants": IH_layers["plants"].lyr,
-             "Indiana Dealers": IH_layers["IN_dealers"].lyr,
-             "Michigan Dealers": IH_layers["MI_dealers"].lyr
+             "IHC Locations":{
+                 "Offices, Plants": IH_layers["plants"].lyr,
+                 "Indiana Dealers": IH_layers["IN_dealers"].lyr,
+                 "Michigan Dealers": IH_layers["MI_dealers"].lyr
+             }
          };
 
          var options = {
          // Make the "Landmarks" group exclusive (use radio inputs)
              exclusiveGroups: ["IHC Locations"]
          };
-         L.control.layers(overlayLayers,).addTo(map);
+         //L.control.layers(overlayLayers,).addTo(map);
+         var layerControl = L.control.groupedLayers(basemaps, overlayLayers, options);
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
