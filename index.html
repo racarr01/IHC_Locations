@@ -143,7 +143,7 @@
          };
 
          // Use the custom grouped layer control, not "L.control.layers"
-         var layerControl = L.control.groupedLayers(OSM, groupedOverlays, options);
+         var layerControl = L.control.groupedLayers(groupedOverlays, options);
              map.addControl(layerControl);
 
         function mk_IH_Layer(url) {
