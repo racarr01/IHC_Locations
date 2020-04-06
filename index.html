@@ -83,7 +83,7 @@
               //    console.log("Loaded")
               if (IH_layers[name].id == "plants") {
                   console.log("yes");
-                  var IHLayer = new L.GeoJSON(data, {
+                  var IHLayer = L.GeoJSON(data, {
                         onEachFeature: function (feature,layer) {
                             var loc_2;
                             if (!feature.properties.State) {
