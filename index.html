@@ -141,7 +141,7 @@
          // Make the "Landmarks" group exclusive (use radio inputs)
              exclusiveGroups: ["IHC Locations"]
          };
-         L.control.layers(overlayLayers).addTo(map);
+         L.control.layers(overlayLayers,).addTo(map);
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
