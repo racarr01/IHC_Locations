@@ -146,7 +146,7 @@
          };
          //L.control.layers(overlayLayers,).addTo(map);
          var layerControl = L.control.groupedLayers(basemaps, overlayLayers, options);
-
+         map.addControl(layerControl);
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
             console.log(url + ':' + IH_json_url[url] );
