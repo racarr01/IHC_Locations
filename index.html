@@ -82,6 +82,7 @@
 	          //When GeoJSON is loaded
               //    console.log("Loaded")
               if (IH_layers[name].id == "plants") {
+                  console.log("yes");
                   var IHLayer = new L.GeoJSON(data, {
                         onEachFeature: function (feature,layer) {
                             var loc_2;
@@ -107,7 +108,7 @@
         //end of for loop
          
          
-         var map = L.map('map',{
+         var map = L.map('map', {
 		     center: [0,0],
 		     zoom: 2,
 		     layers: [OSM,IH_layers["plants"].lyr]
