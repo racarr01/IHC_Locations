@@ -129,7 +129,7 @@
 
 
          // Overlay layers are grouped
-         var groupedOverlays = {
+         var overlayLayers = {
              "IHC Locations": {
                  "Offices, Plants": IH_layers["plants"].lyr,
                  "Indiana Dealers": IH_layers["IN_dealers"].lyr,
@@ -141,10 +141,7 @@
          // Make the "Landmarks" group exclusive (use radio inputs)
              exclusiveGroups: ["IHC Locations"]
          };
-
-         // Use the custom grouped layer control, not "L.control.layers"
-         var layerControl = L.control.groupedLayers(groupedOverlays, options);
-             map.addControl(layerControl);
+         L.control.layers(overlayLayers).addTo(map);
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
