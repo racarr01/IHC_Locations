@@ -62,18 +62,13 @@
       });
       //.addTo(map);
 
-      var map = L.map('map',{
-		center: [0,0],
-		zoom: 2,
-		layers: [OSM]
-	  });
-
+     
       // esri basemap layer
       //var layer = L.esri.basemapLayer('Topographic').addTo(map);
 
 
       // show the scale bar on the lower left corner
-      L.control.scale().addTo(map);
+     // L.control.scale().addTo(map);
       
 
       //test of empty layer
@@ -102,11 +97,16 @@
                     //New GeoJSON layer
 	      
             IH_layers["plants"].lyr.addLayer(IHLayer);
-            map.addLayer(IH_layers["plants"].lyr);
+           // map.addLayer(IH_layers["plants"].lyr);
             console.log(IH_layers["plants"].url);
         });
 
-        
+         var map = L.map('map',{
+		center: [0,0],
+		zoom: 2,
+		layers: [OSM,IH_layers["plants"].lyr]
+	  });
+
 
         function mk_IH_Layer(url) {
             var IHPromise = $.getJSON(IH_json_url[url]);
