@@ -67,15 +67,12 @@
       
 
       //test of empty layer
-      var IN_Dealers = new L.GeoJSON();
+      //  var IN_Dealers = new L.GeoJSON();
       
       // add IHC Plants Layer
-      //console.log("loading Json")
      
       //check code
       for (const name in IH_layers) {
-          
-          console.log(IH_layers[name].id);
         
           var IHPromise = $.getJSON(IH_layers[name].url);
 	      IHPromise.then(function(data){
@@ -110,8 +107,6 @@
                     //New GeoJSON layer
 	      
                 IH_layers[name].lyr.addLayer(IHLayer);
-               // map.addLayer(IH_layers["plants"].lyr);
-                //console.log(IH_layers["plants"].url);
             });
          
         } 
@@ -123,7 +118,10 @@
 		     zoom: 2,
 		     layers: [OSM,IH_layers["plants"].lyr]
 	     });
-         
+      
+         map.on('overlayadd',function (e){
+             console.log(e.name);
+         });
          // show the scale bar on the lower left corner
          L.control.scale().addTo(map);
 
@@ -144,16 +142,11 @@
          // Make the "Landmarks" group exclusive (use radio inputs)
              exclusiveGroups: ["IHC Locations"]
          };
-         //L.control.layers(overlayLayers,).addTo(map);
+
+         // add layer control
+
          var layerControl = L.control.groupedLayers(basemaps, overlayLayers, options);
          map.addControl(layerControl);
-        function mk_IH_Layer(url) {
-            var IHPromise = $.getJSON(IH_json_url[url]);
-            console.log(url + ':' + IH_json_url[url] );
-            IHPromise.then(function(data) {
-                console.log("loaded");
-            });
-         }
 
     </script>
   </body>
