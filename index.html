@@ -101,7 +101,8 @@
                         onEachFeature: function (feature,layer) {
                             layer.bindPopup(feature.properties.Name + '<br />' +
                             feature.properties.Address + '<br />' +
-                            feature.properties.City + ', ' + feature.properties.State);
+                            feature.properties.City + ', ' + feature.properties.State + '<br />' +
+                            feature.properties.Years_of_Operation);
                         }});
 
 
