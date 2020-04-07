@@ -79,7 +79,6 @@
 	          //When GeoJSON is loaded
               //    console.log("Loaded")
               if (IH_layers[name].id == "plants") {
-                  console.log("yes");
                   var IHLayer = new L.GeoJSON(data, {
                         onEachFeature: function (feature,layer) {
                             var loc_2;
@@ -95,7 +94,6 @@
                         }});
                 }
                 else {
-                  console.log("no");
                   var IHLayer = new L.GeoJSON(data, {
                         onEachFeature: function (feature,layer) {
                             layer.bindPopup(feature.properties.Name);
@@ -121,6 +119,7 @@
       
          map.on('overlayadd',function (e){
              console.log(e.name);
+	     map.fitBounds(e.layer.getBounds());
          });
          // show the scale bar on the lower left corner
          L.control.scale().addTo(map);
