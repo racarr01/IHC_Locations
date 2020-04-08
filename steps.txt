@@ -1,0 +1,12 @@
+gs -sDEVICE=txtwrite -o wi.txt ~/Downloads/wi.pdf
+sed 's/^ *//g' < wi.txt > wi2.txt  (remove leading spaces)
+sed 's/ \{2,\}/ \|/g' < wi2.txt > wi3.txt  remove space, add field separator
+sed '/^[[:space:]]*$/d'  < wi3.txt > wi4.txt  remove blank lines
+
+
+
+ogr2ogr -f geojson michigan.geojson convert_ihc_dealers.vrt
+convert to topojson
+
+ogr2ogr -f geojson IHC_Plants.geojson convert_ihc_plants.vrt
+
