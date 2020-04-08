@@ -1,0 +1,675 @@
+Name |Address |City |State Years_of_Operation
+W. M. Wedeking |Abbotsford |WI |<--1912-->
+Bobbe Implement Company |514 South 4th Street |Abbotsford |WI |<--1948-->
+Moody & Son |Abrams |WI |<--1944
+Abrams Implement Company |Abrams |WI |<--1948-->
+McBride Equipment Company |Adams |WI |<--1948-1953-->
+W. H. Bocher |Advance |WI |<--1948-->
+Hays Implement, Inc. |Alderley |WI |<--1978-->
+Miles Supply Company |Allen |WI |<--1918-->
+Ruplinger-Weiss Hardware Company |Allenton |WI |<--1915-->
+Farmer's Mercantile Company |Allenton |WI |<--1948-->
+Farmers' Inc. |Allenton |WI |<--1978-->
+A. H. Gluesing |Alma |WI |<--1948-->
+E. S. Jaconsen |Almena |WI |<--1914-->
+Ackerson & Aronson |Almena |WI |<--1947
+John D. Langbauer |Almond |WI |<--1945
+H. J. Majesky Garage |Almond |WI |<--1947
+Almond Motor Sales |Almond |WI |<--1948-->
+Zahrt Implement & Service |State Highway 52 & County Trunk "Q"|Aniwa |WI |<--1964-1978-->
+H. Jacobus & Company |Antigo |WI |<--1945
+Zeloski Farm Supply Company |Antigo |WI |<--1948-->
+Griesbach Implement Company| 1334 West Wisconsin Avenue|Appleton |WI |<--1948-1978-->
+Baur Truck & Equipment, Inc. |2520 West Wisconsin |Appleton |WI
+Arcadia Implement Company |Arcadia |WI |<--1948-1949-->
+Vinger Implement Company |Argyle |WI |<--1948-1953-->
+Gessner Lumber Company |Arlington |WI |<--1947
+Black Implement Company |Arlington |WI |<--1948-->
+Prairie Implement Company |Arlington |WI |<--1953-->
+Schaumans Store |Armstrong Creek |WI |<--1946
+Sinkulas Store |Armstrong Creek |WI |<--1948-->
+Schlage Auto Company |Ashippun |WI |<--1943-1958-->
+Ewer Maylott Company |Ashland |WI |<--1946
+Ashland Body Works |Ashland |WI |<--1948-1969-->
+MacDonald Implement Company |Athens |WI |<--1948-->
+H. L. Weiler |Auburndale |WI |<--1948-->
+E. A. Ringland |Augusta |WI |<--1921-->
+Chester E. Seif |Augusta |WI |<--1942-->
+C. E. Seifs Sons |Augusta |WI |<--1948-->
+D. Bohn & Son |Avoca |WI |<--1948-->
+Geo H. Harris |Bagley |WI |<--1948
+J. G. Larson & Sons |Baldwin |WI |<--1942-1948-->
+Baldwin Equipment, Inc. |Baldwin |WI |<--1978-->
+Judd Implement Company |Bancroft |WI |<--1948-1955-->
+Ed Chapiewsky |Bangor |WI |<--1948-->
+Bangor Implement Company |1710 Pearl Street |Bangor |WI |<--1979-->
+Kelly & Burke |Baraboo |WI |<--1923-->
+Schwartz Bros. |Baraboo |WI |<--1930-->
+Schwartz Farm Equipment (Company) |135 3rd Avenue |Baraboo |WI |<--1941-1978-->
+Jones Hardware |Barneveld |WI |<--1948-1953-->
+Farmers International, Inc. |Barneveld |WI |<--1978-->
+Barneveld Farm Supply, Ltd. |Barneveld |WI |<--1984-->
+C. V. Anderson & Son |Barron |WI |<--1948-->
+M. L. Anderson & Sons, Inc. |Barron |WI |<--1978-->
+Arnes Implement Company |Barronett |WI |<--1948-->
+Geo. T. Dean |Bassett |WI |<--1946
+Gust Naze & Son |Bear Creek |WI |<--1911-->
+Urban Fermanich & Sons, Inc. |Bear Creek |WI |<--1978-->
+Nelson Implement Company |Beaver |WI |<--1948-->
+Frank A. Spars |Beaver Dam |WI |<--1917-1923-->
+Albert Kaepernick Jr. |Beaver Dam |WI |<--1930-1946
+Rissman-Gamble Company / Inc. |301 South Center Street |Beaver Dam |WI |<--1948-1953-->
+Doers International, Inc. |Beaver Dam |WI |<--1978-->
+Ralph Boom |Belmont |WI |<--1944
+L. A. McGown |Belmont |WI |<--1948-->
+Belmont Equipment, Inc. |Belmont |WI |<--1978-->
+A. B. Cox & Son |Beloit |WI |<--1947-1948-->
+Bryden Motors |Beloit |WI |<--1962-->
+Bruner Truck Sales & Service |804 Colby Street |Beloit |WI |<--1964-1967-->
+Bud's |604 Pleasant Street |Beloit |WI
+Warner H. Bohn |Berlin |WI |<--1948-->
+Chet Hanson |Big Bend |WI |<--1951-->
+H. C. Boettcher Hardware |Birnamwood |WI |<--1948-->
+R. H. Gehrke Company |Black Creek |WI |<--1942-1948-->
+T. |I b i n g e r |Black River Falls |WI |<--1948-->
+E. H. Hanson |Blanchardville |WI |<--1948-1953-->
+Farmers Store Company |Bloomer |WI |<--1948-1967-->
+Lindquist-Swoboda, Inc. |1308 Main Street |Bloomer |WI |<--1978-->
+Hillery Bros. |Bloomington |WI |<--1945
+Rose Bros. |Bonduel |WI |<--1913-->
+R. A. Rose |Bonduel |WI |<--1948-->
+C. F. Voelkner |Borth |WI |<--1927-->
+Boscobel Implement Company (Inc.) |311 Elm Street |Boscobel |WI |<--1948-1978-->
+Funke Implement Shop |Boyceville |WI |<--1948-->
+Retz Equipment, Inc. |508 Tiffany Street |Boyceville |WI |<--1978-->
+Bastian Motor Company |Brillion |WI |<--1948-->
+McInnis Cashway Market |Brimley |WI |<--1947
+Olson Implement Company |Brodhead |WI |<--1946
+Risum Implement Company |1504 17th Street |Brodhead |WI |<--1948-1953-->
+R & R Implement |1504 17th Street |Brodhead |WI |<--1978-->
+Borst Implement Company, Inc. |Brooklyn |WI |<--1953-->
+Martinson Implement, Inc. |109 Hotel Street |Brooklyn |WI |<--1978-->
+Brooks Produce Company |Brooks |WI |<--1947
+Blains |Bruce |WI |<--1948-->
+L. F. Koch Implement Company |Burlington |WI |<--1948-1951-->
+International Harvester Company |Burlington |WI |<--1957-->
+International Harvester Sales & Service |480 South Pine |Burlington |WI |<--1967-->
+Peachey Bros. |Burnett |WI |<--1947
+Herman Swenson |Cadott |WI |<--1942-1945
+John L. Rooney |Cadott |WI |<--1946
+Zenner Implement Company |Cadott |WI |<--1948-->
+Stanek Implement Company|Cadott |WI |1949-1985-->
+Jacob Hagemann |Route 1 |Caledonia |WI |<--1948-1967-->
+Cambridge Hardware Company |Cambridge |WI |<--1915-->
+Farmers Store Company |Cameron |WI |<--1947
+J. H. Kleinhans & Sons |Campbellsport |WI |<--1930-->
+C. J. Kleinhans |Campbellsport |WI |<--1948-->
+Casco Garage |Casco |WI |<--1947
+Frank Hundt / Hundt Implement, Inc. |709 Front Street |Cashton |WI |<--1948-2014-->
+A. T. Finney |Cassville |WI |<--1931-1951-->
+Fisher Brothers Company |Cazenovia |WI |<--1912-->
+Schuster Hardware |Cecil |WI |<--1944
+Central Service Garage |Cedar Grove |WI |<--1947
+Carl Brinkman |Chaseburg |WI |<--1948-->
+Chaseburg Sales & Service |Chaseburg |WI |<--1953-->
+Farmers' Store Company |Chetek |WI |<--1948-->
+Puscheck's Farm Service |Chili |WI |<--1948-1956
+Hingiss, Inc. / Hingiss Implement, Inc. |61 East Chestnut Street |Chilton |WI |<--1948-1978-->
+Charles Henneman |Chippewa Falls |WI |<--1911-1912-->
+Chas. Henneman Company |Chippewa Falls |WI |<--1941-1948-->
+Paulson Equipment Company |Clayton |WI |<--1948-->
+T. S. N i l s s e n |Clear Lake |WI |<--1948-->
+Cleveland Hardware Company |Cleveland |WI |<--1948
+Thomas Bros. Implement Company |Cleveland |WI |<--1948-->
+Clinton Hat. & Implement Company |Clinton |WI |<--1948-->
+Clinton Implement Company |407 Church Street |Clinton |WI |<--1978-->
+R. A, Martin & Company |Clintonville |WI |<--1948-->
+West Side Lumber Company |Clyman |WI |<--1948
+A. H. Rohrer |Cochrane |WI |<--1948-->
+Fred Lakosky Implement Store |Colby |WI |1931-->
+Giese Hardware Company |Coleman |WI |<--1948-->
+Follett & Leach |Coloma |WI |<--1948-->
+Fredrick Farm Equipment Company |Columbus |WI |<--1948-1953-->
+George C. Dobbs |Conover |WI |<--1948-->
+C. O. Gilder |Cornell |WI |<--1944
+Yohnk Implement Company |Cornell |WI |<--1948-->
+Flieth Ehlers Mercantile Company |Cornucopia |WI
+Witte & Farr |Cottage Grove |WI |<--1948-->
+Witte, Farr & Frost, Inc. |Cottage Grove |WI |<--1953-->
+Jos Cherney |County Line |WI |<--1946
+County Line Implement Company |County Line |WI |<--1948-->
+E. E. Kennyson |Crandon |WI |<--1945
+Swanns Service |Crandon |WI |<--1947
+Carter Sales & Service |Crandon |WI |<--1948-->
+W. A. Witt |Crivitz |WI |<--1947
+J. J. Boss |Cuba City |WI |<--1929-->
+Steinbach Motor & Implement Company |Cuba City |WI |<--1948-->
+Steinbach Motor Company |Cuba City |WI |<--1949-->
+Schultz & Otterson |Cumberland |WI |<--1915-->
+Wm. G. Talbot / Wm. G. Talbot & Son, Inc. |1530 Elm Street|Cumberland |WI |<--1948-1981-->
+Jensen Hardware |Cushing |WI |<--1948-->
+Albert Kaufman |Dale |WI |<--1945
+Ed R. Freidrich Company |Dale |WI |<--1948-->
+W. A. Walthers |Dalton |WI |<--1946
+F. E. Von der Sump / F. E. Von der Sump |Dalton |WI |<--1948-1978-->
+Hurdis & Krueger |Darien |WI |<--1948-->
+Lindsay & Howery |Darlington |WI |<--1914-->
+Howery & Sheldon |Darlington |WI |<--1923-->
+Howery Machine Company (Inc.) |201 West Ann Street |Darlington |WI |<--1948-1978-->
+R. J. McGeehan Sons & Company |De Pere |WI |<--1948-->
+M. C. Emerson |Deer Park |WI |<--1914-->
+Arthur Jabusch |Deer Park |WI |<--1948-->
+Jabusch Implement Company |Deer Park |WI |<--1955-1963-->
+Matteks Store |Deerbrook |WI
+W. A. Mattek |Deerbrook |WI
+H. C. Cole |Deerfield |WI |<--1948-->
+H. C. Cole Implement Company |Deerfield |WI |<--1953-->
+Otto Foll |Deerfield |WI
+Chas. Butler |Delafield |WI |<--1948-->
+Sikes Motor Sales |Delavan |WI |<--1951-->
+Anges Peterson |Denmark |WI |<--1947
+Denmark Farm Equipment Company |Denmark |WI |<--1948-1978-->
+M. C. Olson |DeSoto |WI |<--1948-->
+Andrew Hoesley |Dodge |WI |<--1948-1949-->
+Hoyer Implement Company |Dodgeville |WI |<--1947-1962-->
+Genrich Implement Company |Dorchester |WI |<--1948-->
+M. H. Carroll Company |Durand |WI |<--1948-->
+Kohler & Company |3rd Avenue West & East Wells Street |Durand |WI |<--1978-->
+McMahon Motors, Inc. |100 Main Street |Durand |WI
+G. W. Bosch / Geo. Bosch |Durham |WI |<--1936-1948-->
+Vilas Truck & Implement Company |Eagle River |WI |<--1948-->
+Swanson Brothers, Inc. |East Farmington |WI
+Lacy & Clancy (Claucey) |East Troy |WI |<--1920-1921-->
+Byrnes Implement Company |East Troy |WI |<--1948-1951-->
+McCormick Deering Store |Eau Claire |WI |<--1943
+Pope Implement Company |Eau Claire |WI |<--1948-->
+International Harvester Company |225 Putnam Street |Eau Claire |WI |<--1957-1966-->
+Bark River Culvert & Equipment Company |Eau Claire |WI
+A. F. Baeseman |Edgar |WI |<--1948-->
+H. Ebbott & Sons |Edgerton |WI |<--1948-1953-->
+Cities Service Garage |Elderon |WI |<--1946
+Rudolph Bros. Company |Eldorado |WI |<--1948-->
+Ausman Implement Company |Elk Mound |WI |<--1942-->
+C. A. Hill (Inc.) |Elkhorn |WI |<--1948-1951-->
+Elkhorn Equipment, Inc. |Elkhorn |WI |<--1978-->
+John Gaarden |Ellsworth |WI |<--1918-->
+Gaarden-Hove Company |Ellsworth |WI |<--1919-->
+Nelson Implement Company |Ellsworth |WI |<--1948-->
+Julian–Walsingham Implement, Inc. |Ellsworth |WI |<--1978-->
+John Messer |Elm Grove |WI |<--1947
+Messer Implement Company |Elm Grove |WI |<--1948-1951-->
+Bergeman Implement Company |Elmwood |WI |<--1948-->
+Spon Feed & Seed |Elroy |WI |<--1948-->
+Fleming Motor Company |Emerald |WI |<--1942-1948-->
+Wagner & Bartzen |Erdman |WI |<--1923-1948-->
+Maurice Casey |Ettrick |WI |<--1948-1949-->
+Helgesen Farm Equipment Company|8038 North Highway 14 |Evansville |WI |<--1948-1953-->
+Ziemanns Hardware |Fall Creek |WI |<--1948-->
+John Leske |Farmington |WI |<--1913-->
+Farmington Implement Company |Farmington |WI |<--1948-->
+Fennimore Hardware & Implement |Fennimore |WI |<--1944
+Novinska Implement Company |Fennimore |WI |<--1948-1953-->
+A. C. Kandall |Ferryville |WI |<--1948
+E. W. Peterson |Florence |WI |<--1945
+William Witynski Hardware |Florence |WI |<--1948-->
+A. E. Schultz |Fond du Lac |WI |1924-1925-->
+A. A. Briggs |Fond du Lac |WI |<--1931-1932-->
+Nick Schneider |Fond du Lac |WI |<--1945
+Frank Smith Company (Inc.) |Scott & Main |Fond du Lac |WI |<--1948-1955-->
+Fond du Lac Truck Sales |Fond du Lac |WI |<--1951-->
+Footville Hardware |Footville |WI |<--1953-->
+Zeutzius Garage & Implement |Forest Junction |WI |<--1945
+Mark Schlise, Inc. |Forestville |WI |<--1948-->
+Ralph Uecker & Sons, Inc. |221 Main Street |Forestville |WI |<--1978-->
+Knaub & Wunderlich |Fountain City |WI |<--1948-->
+A. E. Streich |Fox Lake |WI |<--1948-->
+Goetsch Bros. |Franklin |WI |<--1922-1923-->
+H. O. Boedeker |Franklin |WI |<--1948-->
+E. J. Klema |Franksville |WI |<--1916-->
+Klema Lumber & Supply Company |Franksville |WI |<--1917-->
+Thos. I. Morgenson, Jr.|Franksville |WI |<--1944
+R. F. Shumann |Franksville |WI |<--1948-->
+George Hagberg |Frederic |WI |<--1944
+Hagberg Alden Implement Company |Frederic |WI |<--1948-->
+Leo W. Hiltgen |Fredonia |WI |<--1948-->
+E. J. Sader & Sons |Fremont |WI |<--1947
+Duehring Implement Company |Friesland |WI |<--1948-->
+G. A. Linton |Ft. Atkinson |WI |<--1948-1953-->
+Galloway Hardware Company |Galloway |WI |<--1948-->
+C. H. Norwood |Gays Mills |WI |<--1946
+Gays Mills Implement Company |Gays Mills |WI |<--1948-1953-->
+Thos. Latimer & Son |Genoa |WI |<--1948-->
+John Bartlett, Jr. |Genoa City |WI |<--1948-1951-->
+B. C. Duerrwaechter |Germantown |WI |<--1948-->
+W. F. Bartelt |Gillett |WI |<--1944
+Harold W. Hansen |Gillett |WI |<--1945
+Ross McMahon |Gillett |WI |<--1946
+Melvin Broetzman |Gillett |WI |<--1948-->
+Gillett Implement Company |Gillett |WI |<--1978-->
+L. J. Zaborowski |Gilman |WI |<--1948-->
+Goodman Lumber Company |Goodman |WI |<--1948-->
+Wegner-Hinz Company |1307 Wisconsin Avenue |Grafton |WI |<--1948-1951-->
+O. C. Burgdorff |Grand Marsh |WI |<--1948-->
+J. D. Smith |Grand Rapids |WI |<--1916-->
+McNally Brothers |Grantsburg |WI |<--1948-->
+Van Veghel Brothers Company |Green Bay |WI |<--1914-->
+R. P. Dunham |Green Bay |WI |<--1942-->
+Harvey J. Barthels |Green Bay |WI |<--1945
+La Plant Implement Company |Green Bay |WI |<--1946
+Spiegel Farm Store |Green Bay |WI |<--1948-->
+Bark River Culvert & Equipment Company |Green Bay |WI
+International Harvester Company |Green Bay |WI |<--1919-1957-->
+Schwarze Bros. |Greenwood |WI |<--1920-->
+Chas. R. Stier & Son |Gresham |WI |<--1947
+Bosch Hardware & Implement |North Cape Road |Hales Corners |WI |<--1967-1969-->
+J. G. Larson & Sons |Hammond |WI |<--1948-->
+Leach & Christenson, Inc |Hartford |WI |<--1945
+P. A. Mueller & Sons, Inc. |Hartford |WI |<--1948-1955-->
+Ed Blaskowsky |Hatley |WI |<--1948-->
+Northern Lakes Co-op |Hayward |WI |<--1948-->
+Lee Motors, Inc. |1st Street & Kansas Avenue Hayward |WI |<--1978-->
+Reul Brothers Company |Highway 18 |Helenville |WI |<--1948-1978-->
+Chladek Brothers |Highland |WI |<--1913-1914-->
+P. W. Hennessey & Sons |Highland |WI |<--1948-->
+Fillback Implement Company |Main Street |Highland |WI |<--1978-->
+Van Haren Implement Company |Hilbert |WI |<--1948-->
+Joseph Hora / Joe Hora |Hillsboro |WI |<--1948-1978-->
+McGowns Supply Store |Hixton |WI |<--1948-->
+Oscar Larson |Holmen |WI |<--1947
+Kenneth G. Johnson |Holmen |WI |<--1948-1962-->
+Aug. E. Roeseler |Hustisford |WI |<--1945
+R. Warner Brothers |Independence |WI |<--1948-1953-->
+Gitzinger Implement Company |Iron Ridge |WI |<--1948-->
+Butzke Elect. & Implement Company |Jackson |WI |<--1948-1951-->
+Jackson Equipment, Inc. |Highways 45 & 60 |Jackson |WI |<--1971-1978-->
+Phil Dohney |Janesville |WI |<--1919-->
+Fitzsimmons Implement Company |Janesville |WI |<--1948-->
+Nelson International, Inc. |837 North Parker Drive |Janesville |WI |<--1979
+Thorston Equip. Sales & Service, Inc. |Janesville |WI
+International Harvester Company |Janesville |WI |<--1957-->
+John W. Heid Hardware and Implement |Jefferson |WI |<--1916-->
+Grahlman & Streich |Johnson Creek |WI |<--1917-->
+Johnson Creek Auto Company |Johnson Creek |WI |<--1948-1961-->
+Carter & Gruenewald Company, Inc. |129 Main Street |Juda |WI |<--1948-2013
+Berg Implement Company |Junction City |WI |<--1947-1948-->
+Vogler & Becker |Juneau |WI |<--1922-->
+F. |J . |M u e l l e r |Juneau |WI |<--1948-->
+Kendall Hardware Company |Kendall |WI |<--1944
+Ralph L. Norton |Kendall |WI |<--1948-1953-->
+International Harvester Company |Kenosha |WI |1928-->
+Fulmer Motors |Kenosha |WI |<--1951-->
+C. R. Evans Company |Kenosha |WI |<--1951-->
+L. Rosenheimer |Kewaskum |WI |<--1912-->
+A. G. Koch (Inc.) |Kewaskum |WI |<--1936-1948-->
+Kewaunee Motors Company |Kewaunee |WI |<--1948-->
+Wanek Motors, Inc. |Kewaunee |WI
+Hingiss, Inc. |Kiel |WI |<--1948-->
+C. W. Pomasl |Knapp |WI
+Frank H. Saltz |La Crosse |WI |<--1936-->
+Rhodes & Wehrenberg |La Crosse |WI |<--1948-->
+Hammes Truck Sales |South Third Street |La Crosse |WI
+Jantz Bros. |La Farge |WI |<--1948
+Ed Deibig Motors |La Farge |WI |<--1948-->
+La Valle Roller Mills |La Valle |WI |<--1948-->
+Ladysmith Implement Company |Ladysmith |WI |<--1915-->
+Hein Implement Company / Frank Hein |120 Worden Avenue East |Ladysmith |WI |1913-1978-->
+Mueller Bros. |Lake Mills |WI |<--1932-->
+Mueller Auto & Implement Company |Lake Mills |WI |<--1948-1953-->
+Lakewood Mercantile Company |Lakewood |WI |<--1946
+Pagenkopf Hardware & Implement Company |Lancaster |WI |<--1948-1953-->
+Finney & Wehrenberg, Inc. |Highway 35 West |Lancaster |WI |<--1978-->
+Wehrenberg Implement |Lancaster |WI
+Connors Big Department Store |Laona |WI |<--1948
+L. R. Nohr |Lark |WI |<--1948-->
+C. S. Hallock |Larsen |WI |<--1948-1960-->
+A. Mathey & Sons |Lena |WI |<--1948-->
+Priems Store |Lily |WI |<--1946
+Caldwell & Gates Company |Lima Center |WI |<--1916-->
+Harry Henrichs |Little Chicago |WI |<--1948-->
+Lomira Co-op Company |Lomira |WI |<--1945
+Harvard Zuehlke |Lomira |WI |<--1948-->
+J. F. Beardsley |Lone Rock |WI |<--1927-1928-->
+C. L. Porter |Lone Rock |WI |<--1945
+Kaul Equipment Company |Lone Rock |WI |<--1948-1953-->
+Fred Steuerwald |Loyal |WI |<--1913-->
+Lakosky Implement Store |Loyal |WI |<--1931-1937-->
+Fred Lakosky |Loyal |WI |<--1944
+Gregory Implement Company |Loyal |WI |<--1948-->
+Luxemburg Implement Company |913 Main Street |Luxemburg |WI |<--1948-1978-->
+Conway Hardware Company |Lyndon Station |WI |<--1948-->
+J. S. Heiligenthal |Lyons |WI |<--1945
+Lyons Implement Company |Lyons |WI |<--1948-->
+H. J. Niglis (Company) |Madison |WI |<--1942-1948-->
+Gordon L. Kay, Inc. |Madison |WI |<--1953-->
+International Harvester Company |2320 Darwin Road |Madison |WI |<--1960-1961-->
+International Harvester Company |706 Williamson Street |Madison |WI
+Bark River Culvert & Equipment Company |Madison |WI
+W. F. Julian |Maiden Rock |WI |<--1948-->
+Gehrke Bros. |Manawa |WI |<--1946
+M. Kelllner & Sons |Manitowoc |WI |<--1917-->
+Anderson & Zinkel / Anderson-Zinkel |Manitowoc |WI |<--1941-1942-->
+H. J. Zinkel Implement Company |Manitowoc |WI |<--1945
+Labmert & Zinda Implement Company |3907 Calumet Avenue |Manitowoc |WI |<--1948-->
+Truck Service Company, Inc. |2904 Calumet Avenue |Manitowoc |WI
+Co-op Services, Inc. / Cooperative Services, Inc. |11306 East US Highway 2 |Maple |WI |<--1948-->
+Alfred G. Straub |Marathon |WI |<--1948-->
+Marathon Auto Sales |Marathon |WI
+Dewane Bros. |Maribel |WI |<--1948-->
+C. J. Moericke |Marion |WI |<--1942-->
+Moericke Hardware |Marion |WI |<--1948-->
+Schmidt’s Welding & Service |Marion |WI |<--1967-1970-->
+Schmidt Implement Company |Marion |WI |<--1978-->
+Chas. F. Schraeder |Markesan |WI |<--1917-1946
+W. O. Kienas |Markesan |WI |<--1948-->
+Albert A. Deppe |Marshall |WI |1902-1929
+Strasburg Company |Marshall |WI |<--1948-->
+Wensel Implement Company |Marshall |WI |<--1953-->
+Midway Equipment, Inc. |946 West Medina Road |Marshall |WI |<--1971-1978-->
+Wm. Noll Hardware Company |Marshfield |WI |<--1911-1912-->
+Fred Seehafer |Marshfield |WI |<--1913-->
+Lindens, Inc. |Marshfield |WI |<--1948-->
+Hughes Bros. Service, Inc. |111 East 4th Street |Marshfield |WI
+Mattoon Hardware & Lumber Company |Mattoon |WI |<--1947
+F. R. Newman & Sons |Mauston |WI |<--1948-1953-->
+Ruede Busch-Ende |Mayville |WI |<--1921-->
+Crescent Garage |Mayville |WI |<--1951-->
+Paul Michler |Medford |WI |<--1932-->
+Paul Michler & Son |Medford |WI |<--1948-1963-->
+Mellen Auto Company |Mellen |WI |<--1948-->
+Rydberg Implement Company |Melrose |WI |<--1948-1959-->
+Geo. Milbrath & Sons |Menomonee Falls |WI |<--1948-->
+Richartz-Beilfus Implement Company |Menomonie |WI |<--1942-->
+Richartz Implement Company (Inc.) |2010 Stout Road |Menomonie |WI |<--1948-1978-->
+Falls Motor Company |Menomonie |WI |<--1951-->
+Williams Bros. |Menomonie |WI
+I. E. Brack |Meridian |WI |<--1918-->
+Wm. Kamke & Sons (Inc.) |2201 East Main Street |Merrill |WI |<--1948-1978-->
+Aug. Kamke & Sons |Merrill |WI
+E. J. Beckman |Merton |WI
+Miller Hardware |Middleton |WI |<--1953-->
+A. B. Gibbs |Miller |WI |<--1912-->
+Jorgensen Implement |Main Street West |Milltown |WI |<--1948-->
+Lipke Brothers |Milton |WI |<--1948-1953-->
+General Equipment Company |Milwaukee |WI |<--1930-->
+S. & R. Motor Company |Milwaukee |WI |<--1951-->
+Skitch Lecher's Hub |3035 South 108th Street |Milwaukee |WI |<--1973-->
+Tractor Loader Sales, Inc. |6270 North 76th |Milwaukee |WI |<--1978-->
+Bark River Culvert & Equipment Company |Milwaukee |WI
+International Harvester Company |145 South 2nd Street |Milwaukee |WI |<--1936-->
+International Harvester Company |420 South 1st Street |Milwaukee |WI |<--1951-1966-->
+International Harvester Company |1714 West Bruce Street |Milwaukee |WI |<--1970-->
+Anton Anderson |Mondovi |WI |<--1923-->
+Mondovi Farm Service |Mondovi |WI |<--1948-->
+Streiff Bauman & Son |Monroe |WI |<--1921-->
+Bauman Hardware |Monroe |WI |<--1944
+Kane & Stauffacher |1722 10th Street |Monroe |WI |<--1948-1950-->
+Kane Farm Equipment Company |Monroe |WI |<--1953-->
+Trucks, Inc. |Highway 11-81 East |Monroe |WI |<--1974-->
+Freitag Implement Company |Montello |WI |<--1948-1953-->
+Bowden & Nowak |Montfort |WI |<--1948-->
+Bowden & Alexander |Montfort |WI |<--1953-->
+W. L. Wichser |Monticello |WI |<--1948-->
+E. A. Smith |Mosinee |WI |<--1948-->
+Wm. Thuermer |Mt. Calvary |WI |<--1948-->
+Reukauf Implement Company |Mt. Hope |WI |<--1948-->
+Birrenkott Sales Company |104-106 South Grove Street|Mt. Horeb |WI |<--1948-1953-->
+Geo. Baxter |Mukwonago |WI |<--1945
+C. J. Mitchell & Sons |Mukwonago |WI |<--1948-1951-->
+Schwingle Company |Muscoda |WI |<--1946
+Pierick Hardware (& Appliances) |Muscoda |WI |<--1948-->
+Neenah Implement Company |Neenah |WI
+Seif & Stelloh |Neillsville |WI |<--1915-->
+C. E. Seif's Sons |237 West 6th Street |Neillsville |WI |<--1948-1978-->
+A. H. Rohrer |Nelson |WI
+Matteks Store |Neva |WI |<--1948-->
+Farmers Store Company |New Auburn |WI |<--1947
+A. L. Greiling Company |New Franken |WI |<--1948-->
+Zumkehr Bros. |New Glarus |WI |<--1948
+Thompson & Zander |New Glarus |WI |<--1948-->
+Thompson Implement Company |New Glarus |WI |<--1953-->
+Gehrke Bros. |New London |WI |<--1946
+Tews Implement Company |New London |WI |<--1948-->
+Larson-Wiler Implement Company |New Richmond |WI |<--1942-->
+Wilen Implement Company |New Richmond |WI |<--1948-->
+John Lochen Company / John P. Lochen |512 Franklin Street |Newburg |WI |<--1948-1978-->
+North Prairie Auto Company |North Prairie |WI |<--1948-->
+Norwalk Implement Company |Norwalk |WI |<--1946-1947
+Leonard M. Degenhardt / Degenhardt |Main Street Highway 71 |Norwalk |WI |<--1948-2012
+T. C. Bakkom Farm Equipment |Oconomowoc |WI |<--1948-->
+Webb Sales Company |Ogdensburg |WI |<--1948-->
+The Larsen Company |Oneida |WI |<--1948-->
+S. F. Hammon |Ontario |WI |<--1948-->
+G. H. Ebbers & Sons |Oostburg |WI |<--1948-->
+Merwood Helgesen Company |Highway 213  East Beloit |Orfordville |WI |<--1948-->
+Swanson Bros. |Osceola |WI |<--1978-->
+Gabriel Streich Company |Oshkosh |WI |<--1927-1932-->
+W. E. Bohn |Oshkosh |WI |<--1944
+C. H. Deniger |Oshkosh |WI |<--1947-1948-->
+Wertsch Motor (Company) |Oshkosh |WI |<--1951-1955-->
+Chief Equipment, Inc. |2601 South Washburn Street|Oshkosh |WI |<--1977-2007
+Ovid Berg |Main Street & 7th Street |Osseo |WI |<--1948-1949-->
+Vold's, Inc. |Osseo |WI |<--1978-->
+Will Implement Company |Owen |WI |<--1942-1948-->
+Will Implement & Gas Company |Owen |WI |<--1963-->
+E. W. Fabert |Oxford |WI |<--1947
+Fisk W. Carlin |Palmyra |WI |<--1938-->
+Hills Farm Service |Pardeeville |WI |<--1947
+Thurston Implement Company |Pardeeville |WI |<--1948-1953-->
+Steiger Motor Sales, Inc. |Park Falls |WI |<--1948-->
+Hammes Garage |Peshtigo |WI |<--1948-->
+County Line Implement Company / Inc. |Peshtigo |WI |<--1958-1978-->
+J. H. Hintz |Pewaukee |WI |<--1923-->
+C. M. Christensen Company |Phelps |WI |<--1944
+Phelps Co-op Society |Phelps |WI |<--1948-->
+Frank Hein |Phillips |WI |<--1927-->
+Tonys Implement Company |Phillips |WI |<--1948-->
+Pigeon Falls Implement Company |Pigeon Falls |WI |<--1948-->
+F. G. Frisbie |Pine River |WI |<--1909-->
+Ludewig Hardware |Pittsville |WI |<--1948-->
+Kramer Hardware Company |Plain |WI |<--1945
+Plain Implement Company |Plain |WI |<--1948-->
+Worden Hardware & Implement Company|Plainfield |WI |<--1948-->
+Woodward Implement Company |Plainfield |WI |<--1978
+Central Sands International, Inc. |Plainfield |WI |1979-->
+H. F. Klosterman |Platteville |WI |<--1948-1949-->
+Weisse & Enders |Platteville |WI |<--1951-->
+Central Garage and Implement Company |Plymouth |WI |<--1920-->
+Plymouth Implement Company |Plymouth |WI |<--1948-1951-->
+Gesicki Brothers |Poniatowski |WI |<--1914-->
+North Side Motors |Port Washington |WI |<--1951-->
+Port Wing Hardware Company |Port Wing |WI |<--1948-->
+H. J. Redelings Company |Porterfield |WI |<--1948-->
+Arno Keehner |Potosi |WI |<--1948-1951-->
+Schwalenberg & Kasper |Potter |WI |<--1948-->
+Harold Madison |Poysippi |WI |<--1948-->
+Dahlke-Fraser, Inc. |Poysippi |WI |<--1958-1961-->
+Balk Oil & Coal Company |Prairie du Chien |WI |<--1944
+Hess & Company |Prairie du Chien |WI |<--1947-1953-->
+McCormick Farm Equipment Store |303 South Blackhawk |Prairie du Chien |WI |<--1957-1958-->
+International Harvester Sales & Service |South Marquette Road |Prairie du Chien |WI |<--1970-->
+Johnson International, Inc. |South Marquette Road |Prairie du Chien |WI |<--1978-->
+Charles Ploetz Company |Prairie du Sac |WI |<--1942-->
+Page Company |Prairie du Sac |WI |<--1948-->
+River Valley Equipment, Inc. |255 Galena Street |Prairie du Sac |WI |<--1978-1979-->
+George Scott |Prairie Farm |WI |1904-1912-->
+Ostrom Implement Company |Prairie Farm |WI |<--1948-->
+Mueller Implement Company |Princeton |WI |<--1948-->
+Peplinski Hardware Company |Pulaski |WI |<--1948-->
+E. R. Peplinski |Pulaski |WI
+Wm. Zenks & Sons |Pulcifer |WI |<--1945
+Pulcifer Implement Company |Pulcifer |WI |<--1948-->
+National Truck Sales |Racine |WI |<--1951-->
+National Truck Service, Inc. |1018 South Lafayette |Racine |WI
+International Harvester Company |Racine |WI |1929-->
+International Harvester Company |1018 Herrick Avenue |Racine |WI |<--1936-->
+L. W. Smith & Company |Randolph |WI |<--1922-->
+Zemlo Service |Randolph |WI |<--1948-1951-->
+Lloyd Implement Company |Randolph |WI |<--1953-->
+Arthur J. Wilk, Inc. |Random Lake |WI |<--1948-1951-->
+Alfred Bernien |Reedsburg |WI |<--1917-1918-->
+Alfred Bernien Company |Reedsburg |WI |<--1942-->
+Bernien Company (Inc.) |121 South Webb Street |Reedsburg |WI |<--1948-1978-->
+Reedsville Motor Car Company |Reedsville |WI |<--1930-1948-->
+Reeseville Implement Company |Reeseville |WI |<--1922-->
+H. T. Collard |Reeseville |WI |<--1944
+Froehlich Implement Company |Reeseville |WI |<--1948-->
+Juday & Willis, Inc. |Rhinelander |WI |<--1948-->
+Modern Farm Supply Division, Frito Lay, Inc. |Rhinelander |WI |<--1978-->
+Crisler & Company |Rice Lake |WI |<--1912-->
+Volck Sales & Service, Inc. |Rice Lake |WI |<--1948-->
+Baribeau Implement Company, Inc. |Rice Lake |WI |<--1978-->
+D. G. James |Richland Center |WI |<--1920-->
+Keegan Bros. |Richland Center |WI |<--1948-1953-->
+Keegan Implement, Inc. |Richland Center |WI
+W. Richards |Ridgeway |WI |<--1945
+Ridgeway Implement Company |Ridgeway |WI |<--1948-->
+Below & Brewer |Ripon |WI |<--1911-->
+Lueck Implement Store |126-130 Jackson Street |Ripon |WI |<--1948-->
+A. W. Lund Company |River Falls |WI |<--1948-->
+Sperstad Hardware & Implement Company |Rock Falls |WI |<--1942-1948-->
+T. A. Goshek Implement Company |Rosholt |WI |<--1948
+Rogoski Implement Company |Rosholt |WI |<--1948-->
+Plitz Company |Rudolph |WI |<--1948-->
+Theo. Koenings |Schleisingerville |WI |<--1914-->
+Farmers Implement Company |Seymour |WI |<--1945
+Be Sher Farm Equipment Company |Seymour |WI |<--1948-->
+Sherman Implement Company |831 North Main Street |Seymour |WI |<--1978-->
+E. P. Shager & Son |Sharon |WI |<--1914-->
+Upham Hardware Company |Shawano |WI |<--1915-->
+Farmers Implement (Inc.) |724 East Green Bay Street Shawano |WI |<--1948-1978-->
+Phil Juckem |Sheboygan |WI |<--1916-->
+Wagner & Bartzen |Route No. 1 |Sheboygan |WI |<--1927-1937-->
+W. A. Knaak |Sheboygan |WI |<--1951-->
+Zittel Truck & Equipment |Highway 141 at Ashland |Sheboygan |WI |<--1964-->
+Hein Implement Company |Sheldon |WI |<--1948-->
+Spafford Equipment Company |Shell Lake |WI |<--1947
+F. R. Brand |Shell Lake |WI
+Clarence Mueller Company |Sherwood |WI |<--1948-->
+Look & Fox |Shullsburg |WI |<--1915-->
+Jos. B. Hanson |Siren |WI |<--1948-->
+Roys Implement & Service |Sister Bay |WI |<--1945
+Herman J. Seno |Slades Corners |WI |<--1947
+R. A. Burg |Slinger |WI |<--1948-->
+Dan Krause |Sobieski |WI |<--1946
+Wiley Implement & Company |Soldiers Grove |WI |<--1948-->
+Wiley Implement Sales |Soldiers Grove |WI |<--1953-->
+Plourde Brothers |Somerset |WI
+M. J. Olson |South Wayne |WI |<--1948-->
+Otis Erickson |Sparta |WI |<--1947
+Rasmussen Implement Company |Sparta |WI |<--1948-->
+Rasmussen Sales Company |Sparta |WI |<--1953-1956
+Rasmussen Oil Company |Sparta |WI
+Wm. Niemeier |Sparta |WI
+Farmers Co-op Company |109 Front Street |Spencer |WI |<--1948-1978-->
+Arnes Equipment Company |Spooner |WI
+Spafford Equipment Company |Spooner |WI
+Sam Martin |Spring Valley |WI |<--1948-->
+E. F. Dreifuerst |St. Cloud |WI |<--1947
+St. Croix Supply Company |St. Croix Falls |WI |<--1948-->
+H. Sulloff & Sons |St. Nazianz |WI |<--1908-1909-->
+John Miller |St. Nazianz |WI |<--1929-->
+John Miller Implement Company, Inc. |St. Nazianz |WI |<--1948-1978-->
+H. L. Childs |Steuben |WI |<--1946
+Breitenstein & Company |Stevens Point |WI |<--1946
+Hein Implement Company |South Church Street |Stevens Point |WI |<--1948-->
+Spees & Dahle |Stoughton |WI |<--1944-1948-->
+Dahle Implement Company |Stoughton |WI |<--1953-->
+G. L. Klemme & Son |Stratford |WI |<--1948-->
+Ericksons Farmers Store |Strum |WI |<--1948-->
+J. C. Dana |Sturgeon Bay |WI |<--1909-->
+Mac's Implement & Supply |120 Green Bay Road |Sturgeon Bay |WI |<--1948-->
+Farmers Mercantile Company |Sturtevant |WI |<--1932-1948-->
+Kilian Bros. |Sugar Bush |WI |<--1948-->
+Service Motor Company |Superior |WI |<--1927-1948-->
+Kari Garage |1002 Ogden Avenue |Superior |WI |<--1978-->
+Suring Hardware Company |Suring |WI |<--1945
+Nettesheim & Otto |Sussex |WI |<--1946
+E. C. Holz |Tess Corners |WI |<--1936-->
+Holz Hardware and Implement Company |Tess Corners |WI |<--1948-->
+A. A. Zimmel |202 Mayville Street |Theresa |WI |<--1946-1951-->
+Zimmel Implement, Inc. |202 Mayville Street |Theresa |WI |<--1978-->
+George Schubert and Sons (Company) |Thiensville |WI |<--1942-1951-->
+Thorp Implement Company |Thorp |WI |<--1948-->
+Juzwiak Implement, Inc. |Thorp |WI |<--1978-->
+Three Lakes Grocery |Three Lakes |WI |<--1947
+Franks Sambs |Tigerton |WI |<--1948-->
+Claude P. Felts |Tilleda |WI |<--1946
+Tilleda Hardware & Implement Company |Tilleda |WI |<--1948-->
+F. |W. Stangel & Sons |Tisch Mills |WI |<--1947
+Wm. Graewin & Son |Tomah |WI |<--1945
+Bert O. Johnson |Tomah |WI |<--1948-1953-->
+Daigle Farm Hardware & Machinery |Tomahawk |WI |<--1948-->
+S & R Motor Service |4161 South Howell Avenue Town of Lake |WI |<--1951-->
+R. O. Pintsch |Townsend |WI |<--1946
+Stolle Mercantile Company |Tripoli |WI |<--1944
+C. R. Evans Implement Company, Inc. |Truesdell |WI |<--1948-->
+John Boyson |Tustin |WI
+Two Creeks Garage |Two Creeks |WI |<--1948-->
+Arthur A. Grimm / Art Grimm |Two Rivers |WI |<--1948-->
+Two Creeks Garage |Two Rivers |WI |<--1978-->
+Farmers Mercantile Company |Union Grove |WI |<--1936-1951-->
+Otto Olson |Valders |WI |<--1945
+H. J. Niglis (Company) |Verona |WI |<--1942-1948-->
+Verona International Trucks |6121 Nesbit Road |Verona |WI |<--1974-->
+Bakke Implement & Hardware |Viroqua |WI |<--1944
+Swangstu Bros. |Viroqua |WI |<--1948-1953-->
+Charles Holler |Wabeno |WI |<--1944
+Wabeno Implement Company |Wabeno |WI |<--1948-->
+Wierman-Louret, Inc. |817 2nd Street |Waldo |WI |<--1948-1978-->
+Burns Garage |Walworth |WI |<--1951-->
+Alex Engel |Waterford |WI |<--1948-->
+Deppe & Taves |Waterloo |WI |<--1948-->
+Taves Implement Company |Waterloo |WI |<--1953-->
+Deppe & Kluetzman |Waterloo |WI |1929-->
+J. D. Casey |Watertown |WI |<--1913-1914-->
+Casey Company |Watertown |WI |<--1936-->
+Darcey Implement Company |Watertown |WI |<--1948-1953-->
+Donahue Motor Company |Watertown |WI |<--1951-->
+Hugo R. Klessig |Waubeka |WI |<--1947
+Wm. A. Connell / W. A. Connell Implement / 
+Connell Equipment |304 West St. Paul Avenue |Waukesha |WI |<--1948-1978-->
+Waukesha Truck Sales, Inc. / Waukesha |500 Summit Avenue |Waukesha |WI |<--1951-->
+Truck Sales & Service
+S. P. Godfrey |Waupaca |WI |<--1944
+Shambeau's |500 East Fulton |Waupaca |WI |<--1948-->
+Godfrey Equipment Company |111 West Union Street |Waupaca |WI |<--1971-1978-->
+Landaal Bros. Hardware / Landaal Bros. |16 East Main Street |Waupun |WI |<--1916-1978-->
+Nickel Hardware & Supply Company |Wausau |WI |<--1923-1945
+Henrichs Implement & Supply |Wausau |WI |<--1947
+Burmingham Implement Company |Wausau |WI |<--1948-->
+International Harvester Sales & Service |1819 W. Stewart Avenue |Wausau |WI |<--1963-1964-->
+Steinbach & Doll |Wauzeka |WI |<--1948-1953-->
+John W. Barens |West Bend |WI |<--1932-->
+H. E. Cooley & Sons |West Bend |WI |<--1948-->
+Cooley Sons Company |West Bend |WI |<--1951-->
+Fred Herman & Son, Inc. |West Salem |WI |<--1932-->
+Arthur C. Herman |West Salem |WI |<--1948-1964-->
+Beebe Equipment, Inc. |West Salem |WI |<--1978-1982-->
+A. H. Dahl & Company |Westby |WI |<--1911-->
+Jules Rudie |Westby |WI |<--1948-1953-->
+J. C. Ritchie |Weyauwega |WI |<--1944
+Teal Implement Company |Weyauwega |WI |<--1948-->
+Clark Implement Company |108 East Wisconsin Street |Weyauwega |WI |<--1969-1978-->
+Blains |Weyerhaeuser |WI |<--1948-->
+A. Baxter |Wheeler |WI |<--1922-1923-->
+P. M. Paulson |Whitehall |WI |<--1948-1949-->
+Wilde Farm Equipment Company |Whitewater |WI |<--1944
+Annen Bros. |Whitewater |WI |<--1948-->
+Triangle Motors |Whitewater |WI |<--1951-->
+R. K. Hotz |Wild Rose |WI |<--1944
+Colligan Auto & Implement Sales |Wild Rose |WI |<--1948-->
+Hett Hardware & Implement |(Company) |Wilton |WI |<--1948-1953-->
+Thurow Motor Sales |Wilton |WI
+Riverside Motor Company |Winneconne |WI |<--1948-->
+McClyman Hardware |Wisconsin Dells |WI |<--1948-1953-->
+Jas. LaVigne Hardware & Implement |Wisconsin Rapids |WI |<--1944
+L. E. Jensen Garage |Wisconsin Rapids |WI |<--1948-->
+Cappels, Inc. |Wittenberg |WI |<--1948-->
+Wonewoc Supply Company |Wonewoc |WI |<--1948
+Lee Murphy |Woodville |WI |<--1942-->
+Joseph Krautkramer Sons Company |Wrightstown |WI |<--1948-->
+Reidle Hardware Company |Yuba |WI |<--1948-->
+Bakkom Bros. |Zenda |WI |<--1936-->
+O. L. Bakkom |Zenda |WI |<--1945
+Wahlstedt & Schultz |Zenda |WI |<--1947
+Gethen Implement Company |Zenda |WI |<--1948-->
