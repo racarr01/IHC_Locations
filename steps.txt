@@ -4,6 +4,10 @@ sed 's/ \{2,\}/ \|/g' < wi2.txt > wi3.txt  remove space, add field separator
 sed '/^[[:space:]]*$/d'  < wi3.txt > wi4.txt  remove blank lines
 
 
+change html angle brackets
+sed -i.bkup 's/</\&lt;/g'  Minnesota/mn.csv
+sed -i.bkup2 's/>/\&gt;/g'  Minnesota/mn.csv
+
 
 ogr2ogr -f geojson michigan.geojson convert_ihc_dealers.vrt
 convert to topojson
