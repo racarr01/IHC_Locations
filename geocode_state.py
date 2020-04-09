@@ -3,6 +3,7 @@ from geopy.geocoders import TomTom as Tom
 from geopy.exc import GeocoderTimedOut
 import csv
 import os
+import sys
 from dotenv import load_dotenv
 load_dotenv()
 #keys_file = open("/home/racarr/projects/IHC_Geocode/tomtom.txt")
@@ -14,6 +15,9 @@ TT_AGENT = os.getenv("user_agent")
 TOMTOM_API_KEY = os.getenv("api_key")
 geopy.geocoders.options.default_timeout = 30
 geolocator = Tom(user_agent=TT_AGENT,api_key=TOMTOM_API_KEY)
+fldr = sys.argv[1]
+basedir = "/home/racarr/projects/IHC_Locations/"
+
 def do_geocode(address,n):
     if (n < 5):
         try:
@@ -21,8 +25,18 @@ def do_geocode(address,n):
         except GeocoderTimedOut:
             n = n + 1
             return do_geocode(address,n)
+Files = []
+Files.append(basedir + fldr + "/" + fldr + ".csv")
+Files.append(basedir + fldr + "/" + fldr + "_geo.csv")
+Files.append(basedir + fldr + "/" + fldr + "_err.txt")
+
+if (fldr == "test"):
+    print(Files[0])
+    print(Files[1])
+    print(Files[2])
 
 
+    exit()
 
 
 with open("/home/racarr/projects/IHC_Geocode/in.csv","r") as infile,\
