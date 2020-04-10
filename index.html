@@ -129,7 +129,8 @@
       
          map.on('overlayadd',function (e){
              console.log(e.name);
-	     map.fitBounds(e.layer.getBounds());
+	         map.fitBounds(e.layer.getBounds());
+             console.log(e.layer.getBounds().getCenter().lat);
          });
          // show the scale bar on the lower left corner
          L.control.scale().addTo(map);
