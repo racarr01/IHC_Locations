@@ -39,9 +39,9 @@ if (fldr == "test"):
     exit()
 
 
-with open("/home/racarr/projects/IHC_Geocode/in.csv","r") as infile,\
-open ("/home/racarr/projects/IHC_Geocode/in_geo.csv","a") as outfile,\
-open ("/home/racarr/projects/IHC_Geocode/in_err.txt", "w") as errfile:
+with open(Files[0],"r") as infile,\
+open (Files[1],"a") as outfile,\
+open (Files[2], "w") as errfile:
     reader = csv.reader(infile, delimiter=",")
     for i, line in enumerate(reader):
          if (i > 0):
