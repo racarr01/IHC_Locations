@@ -47,7 +47,8 @@
       const IH_layers = {
           "plants" : { id: "plants", lyr: L.markerClusterGroup(), url: "./IHC_Plants/IHC_Plants.geojson" },
           "IN_dealers" : { id : "IN_dealers", lyr: L.markerClusterGroup(), url: "./Indiana/indiana.geojson" },
-          "MI_dealers" : { id : "MI_dealers", lyr: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" }
+          "MI_dealers" : { id : "MI_dealers", lyr: L.markerClusterGroup(), url: "./Michigan/michigan.geojson" },
+          "MN_dealers" : { id : "MN_dealers", lyr: L.markerClusterGroup(), url: "./Minnesota/Minnesota.geojson" }
        }
        
      
@@ -139,7 +140,8 @@
              "IHC Locations":{
                  "Offices, Plants": IH_layers["plants"].lyr,
                  "Indiana Dealers": IH_layers["IN_dealers"].lyr,
-                 "Michigan Dealers": IH_layers["MI_dealers"].lyr
+                 "Michigan Dealers": IH_layers["MI_dealers"].lyr,
+                 "Minnesota Dealers": IH_layers["MN_dealers"].lyr
              }
          };
 
