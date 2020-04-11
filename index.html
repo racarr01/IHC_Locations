@@ -130,9 +130,10 @@
              console.log(e.name);
 	         map.fitBounds(e.layer.getBounds());
              console.log(e.layer.getBounds().getCenter().lat);
-             var curZoom = map.getZoom();
+             var lyrZoom = map.getZoom();
+             console.log(lyrZoom);
              home_button.setCenter(e.layer.getBounds().getCenter().lat,e.layer.getBounds().getCenter().lon);
-             home_button.setZoom(curZoom);
+             home_button.setZoom(lyrZoom);
              
          });
          // show the scale bar on the lower left corner
