@@ -130,6 +130,8 @@
              console.log(e.name);
 	         map.fitBounds(e.layer.getBounds());
              console.log(e.layer.getBounds().getCenter().lat);
+             home_button.setCenter(e.layer.getBounds().getCenter().lat,e.layer.getBounds().getCenter().lon);
+             
          });
          // show the scale bar on the lower left corner
          L.control.scale().addTo(map);
