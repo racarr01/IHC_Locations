@@ -123,8 +123,7 @@
          var map = L.map('map', {
 		     center: [0,0],
 		     zoom: 2,
-             defaultExtentControl: true,
-		     layers: [OSM,IH_layers["plants"].lyr]
+             layers: [OSM,IH_layers["plants"].lyr]
 	     });
       
          map.on('overlayadd',function (e){
@@ -158,6 +157,9 @@
 
          var layerControl = L.control.groupedLayers(basemaps, overlayLayers, options);
          map.addControl(layerControl);
+         
+         //add home control
+         var home_button = L.control.defaultExtent().addTo(map);
 
     </script>
   </body>
