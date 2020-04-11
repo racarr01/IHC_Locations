@@ -133,7 +133,7 @@
              var lyrZoom = map.getZoom();
              console.log(lyrZoom);
              home_button.setCenter(e.layer.getBounds().getCenter().lat,e.layer.getBounds().getCenter().lon);
-             home_button.setZoom(lyrZoom);
+             map.setZoom(lyrZoom);
              
          });
          // show the scale bar on the lower left corner
