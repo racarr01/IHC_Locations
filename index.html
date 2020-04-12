@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-groupedlayercontrol/0.6.1/leaflet.groupedlayercontrol.min.css"
     integrity="sha256-2nki7eLxn91r/RI3QQq+ArnIltknk6gz4wSoQHFrJnA=" crossorigin="anonymous" />
     <!-- Make sure you put this AFTER Leaflet's CSS -->
-    <link rel="stylesheet" href="https://rawgit.com/nguyenning/Leaflet.defaultextent/master/dist/leaflet.defaultextent.css" />
+    <link rel="stylesheet" href="./src/Leaflet.NavBar.css" />
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
    crossorigin=""></script>
@@ -22,7 +22,8 @@
    <script src="https://unpkg.com/esri-leaflet@2.3.3/dist/esri-leaflet.js"
    integrity="sha512-cMQ5e58BDuu1pr9BQ/eGRn6HaR6Olh0ofcHFWe5XesdCITVuSBiBZZbhCijBe5ya238f/zMMRYIMIIg1jxv4sQ=="
    crossorigin=""></script>
-   <script src="https://rawgit.com/nguyenning/Leaflet.defaultextent/master/dist/leaflet.defaultextent.js"></script>
+   <script src="./src/Leaflet.NavBar.js"></script>
+   
 
   
     <style>
@@ -129,10 +130,6 @@
          map.on('overlayadd',function (e){
              console.log(e.name);
 	         map.fitBounds(e.layer.getBounds());
-             console.log(e.layer.getBounds().getCenter().lat);
-             var lyrZoom = map.getZoom();
-             console.log(lyrZoom);
-            // home_button.setCenter(e.layer.getBounds().getCenter().lat,e.layer.getBounds().getCenter().lon);
                        
          });
 
@@ -164,7 +161,7 @@
          map.addControl(layerControl);
          
          //add home control
-         var home_button = L.control.defaultExtent().addTo(map);
+         var home_button = L.control.navbar().addTo(map);
 
     </script>
   </body>
