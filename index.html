@@ -98,9 +98,10 @@
                             layer.bindPopup(feature.properties.Plant_Type +
                              '<br />' + feature.properties.Product + '<br />' +
                             feature.properties.City + ', ' + loc_2 +
-                            '<br />' + 'https://www.google.com/search?q=' +
+                            '<br />' + '<a href=\"https://www.google.com/search?q=' +
                             feature.properties.Plant_Type + '+' +
-                            feature.properties.City + '+' + loc_2);
+                            feature.properties.City + '+' + loc_2 + '\">' +
+                            'Web Link </a>');
                    }});
                 }
                 else {
